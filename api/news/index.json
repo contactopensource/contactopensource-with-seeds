@@ -1,0 +1,107 @@
+
+
+{
+    "data": [{
+        "comment": "TODO",
+        "type": "news",
+        "id": "aed89d463308c92cd70450b02ce82e52",
+        "attributes": {
+            "key": "aed89d463308c92cd70450b02ce82e52",
+            "name": "Alpha Name",
+            "box_img_uri": "news/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "news",
+        "id": "80b4410874c8fe6f7571f62b5b06cb72",
+        "attributes": {
+            "key": "80b4410874c8fe6f7571f62b5b06cb72",
+            "name": "Bravo Name",
+            "box_img_uri": "news/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "news",
+        "id": "7fa6190d8bf7680eb400ec7a7cdc4ce5",
+        "attributes": {
+            "key": "7fa6190d8bf7680eb400ec7a7cdc4ce5",
+            "name": "Charlie Name",
+            "box_img_uri": "news/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "news",
+        "id": "c3a7f91704afe942b69652991d7c0ed0",
+        "attributes": {
+            "key": "c3a7f91704afe942b69652991d7c0ed0",
+            "name": "Delta Name",
+            "box_img_uri": "news/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "news",
+        "id": "1a6584b004f20b4acae1e52e23b1668f",
+        "attributes": {
+            "key": "1a6584b004f20b4acae1e52e23b1668f",
+            "name": "Echo Name",
+            "box_img_uri": "news/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "news",
+        "id": "05ccc368a5e5f1294d16226e329fb47b",
+        "attributes": {
+            "key": "05ccc368a5e5f1294d16226e329fb47b",
+            "name": "Foxtrot Name",
+            "box_img_uri": "news/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    }]
+}

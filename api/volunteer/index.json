@@ -1,0 +1,105 @@
+{
+    "data": [{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "0fe34fa1ef0b8db83c93d7e623a2df76",
+        "attributes": {
+            "key": "0fe34fa1ef0b8db83c93d7e623a2df76",
+            "name": "Alpha Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "2250ed610b4a2e79ed67f562abbcfe65",
+        "attributes": {
+            "key": "2250ed610b4a2e79ed67f562abbcfe65",
+            "name": "Bravo Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "3eec502827967880eddf0722da77972c",
+        "attributes": {
+            "key": "3eec502827967880eddf0722da77972c",
+            "name": "Charlie Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "6a7db6c1f970c36e29d2765e3a0c5999",
+        "attributes": {
+            "key": "6a7db6c1f970c36e29d2765e3a0c5999",
+            "name": "Delta Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "db1048e6dde2286010f925b6f5664070",
+        "attributes": {
+            "key": "db1048e6dde2286010f925b6f5664070",
+            "name": "Echo Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "cad88c792e9ab61f34de4151e10f87f0",
+        "attributes": {
+            "key": "cad88c792e9ab61f34de4151e10f87f0",
+            "name": "Foxtrot Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    }]
+}

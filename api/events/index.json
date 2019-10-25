@@ -1,0 +1,51 @@
+{
+    "data": [{
+        "comment": "Amnesty International -> Afternoon event",
+        "type": "event",
+        "id": "4f254a45494612d42736845bacae57cf",
+        "attributes": {
+            "organization_id": "ccf8bf385cce40a4290ac17ee4c1c94b",
+            "name": "Afternoon event"
+        }
+    },{
+        "comment": "Burning Man -> Breakfast event",
+        "type": "organization",
+        "id": "08aa9a1c4d6e00cb7e0685c28c6d81ad",
+        "attributes": {
+            "organization_id": "3d3d20398ccb973e1033893db540c61f",
+            "name": "Breakfast event"
+        }
+    },{
+        "comment": "Care International -> Charity event",
+        "type": "event",
+        "id": "0d691fbe0d30c68e5f9e0358db8e35d2",
+        "attributes": {
+            "organization_id": "a5a7fe9c77040fc0fbefabfbc202ff4d",
+            "name": "Charity event"
+        }
+    },{
+        "comment": "Direct Relief -> Donation event",
+        "type": "event",
+        "id": "9b3b2a48b73ef0a9a5b01e551af91573",
+        "attributes": {
+            "organization_id": "f3c01abe5b51f7d5460bddf4924a1fa2",
+            "name": "Donation event"
+        }
+    },{
+        "comment": "Electronic Frontier Foundation -> Evening event",
+        "type": "event",
+        "id": "bee5b22186ae817e02c766b1c56862bb",
+        "attributes": {
+            "organization_id": "ec40f990cedc5f0917850a2b2249e111",
+            "name": "Evening event"
+        }
+    },{
+        "comment": " -> Fundraising event",
+        "type": "event",
+        "id": "bee5b22186ae817e02c766b1c56862bb",
+        "attributes": {
+            "organization_id": "ec40f990cedc5f0917850a2b2249e111",
+            "name": "Evening event"
+        }
+    }]
+}

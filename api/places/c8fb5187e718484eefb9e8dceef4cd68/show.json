@@ -1,0 +1,19 @@
+{
+    "data": [{
+        "comment": "New York Grand Central",
+        "type": "geo_points",
+        "id": "c8fb5187e718484eefb9e8dceef4cd68",
+        "attributes": {
+            "title": "Grand Central",
+            "subtitle": "New York, NY, US",
+            "box_img_uri": "places/grand_central/icons/512.jpg",
+            "latitude": "40.752687",
+            "longitude": "73.977188",
+            "altitude": "39.6",
+            "elevation": "39.6",
+            "openlocationcode_text": "87G8Q23F+34",
+            "whatthreewords_text": "rubble.occurs.holds",
+            "what3words_text": "burst.fully.things",
+        }
+    }]
+}

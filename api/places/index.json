@@ -1,0 +1,99 @@
+{
+    "data": [{
+        "comment": "New York Grand Central",
+        "type": "geo_points",
+        "id": "c8fb5187e718484eefb9e8dceef4cd68",
+        "attributes": {
+            "title": "Grand Central",
+            "subtitle": "New York, NY, US",
+            "box_img_uri": "places/grand_central/icons/512.jpg",
+            "latitude": "40.752687",
+            "longitude": "73.977188",
+            "altitude": "39.6",
+            "elevation": "39.6",
+            "openlocationcode_text": "87G8Q23F+34",
+            "whatthreewords_text": "rubble.occurs.holds",
+            "what3words_text": "burst.fully.things"
+        }
+    },{
+        "comment": "San Francisco Ferry Building",
+        "type": "geo_points",
+        "id": "6e7e03c894c96caeee4719e3dcccd339",
+        "attributes": {
+            "title": "Ferry Building",
+            "subtitle": "San Francisco, CA, US",
+            "box_img_uri": "places/ferry_building/icons/512.jpg",
+            "latitude": "37.795563",
+            "longitude": "-122.393312",
+            "altitude": "12.1",
+            "elevation": "12.1",
+            "openlocationcode_text": "849VQJW4+6M",
+            "whatthreewords_text": "banks.issues.socket",
+            "what3words_text": "solid.cracks.solar"
+        }
+    },{
+        "comment": "New York Public Library",
+        "type": "geo_points",
+        "id": "c1346940d621bb901eb2ea3f904f5229",
+        "attributes": {
+            "title": "New York Public Library",
+            "subtitle": "New York, NY, US",
+            "box_img_uri": "places/nypl/icons/512.jpg",
+            "latitude": "40.752687",
+            "longitude": "73.977188",
+            "altitude": "39.6",
+            "elevation": "39.6",
+            "openlocationcode_text": "87G8Q23F+34",
+            "whatthreewords_text": "rubble.occurs.holds",
+            "what3words_text": "burst.fully.things"
+        }
+    },{
+        "comment": "San Francisco Public Library",
+        "type": "geo_points",
+        "id": "8188e32e580c55d15d1ccd14373a2f88",
+        "attributes": {
+            "box_img_uri": "places/sfpl/icons/512.jpg",
+            "title": "San Francisco Public Library",
+            "subtitle": "San Francisco, CA, US",
+            "latitude": "37.795563",
+            "longitude": "-122.393312",
+            "altitude": "12.1",
+            "elevation": "12.1",
+            "openlocationcode_text": "849VQJW4+6M",
+            "whatthreewords_text": "banks.issues.socket",
+            "what3words_text": "solid.cracks.solar"
+        }
+    },{
+        "comment": "North Pole",
+        "type": "geo_points",
+        "id": "decb4d70ba8fe75f5a40d99bc884a1fd",
+        "attributes": {
+            "title": "North Pole",
+            "subtitle": "The Arctic",
+            "box_img_uri": "places/north_pole/icons/512.jpg",
+            "latitude": "0",
+            "longitude": "0",
+            "altitude": "0",
+            "elevation": "0",
+            "openlocationcode_text": "",
+            "whatthreewords_text": "",
+            "what3words_text": ""
+        }
+    },{
+        "comment": "South Pole",
+        "type": "geo_points",
+        "id": "3263f3d7175b51d3365e7f40d32ab654",
+        "attributes": {
+            "title": "South Pole",
+            "subtitle": "The Anarctic",
+            "box_img_uri": "places/south_pole/icons/512.jpg",
+            "latitude": "0",
+            "longitude": "0",
+            "altitude": "0",
+            "elevation": "0",
+            "openlocationcode_text": "",
+            "whatthreewords_text": "",
+            "what3words_text": ""
+        }
+    }]
+}

@@ -1,0 +1,12 @@
+{
+    "data": [{
+        "type": "post",
+        "id": "b4d6797f1d3b9d4b94fbd60c8d03bd13",
+        "attributes": {
+            "title": "Bob Brown",
+            "subtitle": "bob.brown@example.com",
+            "box_img_uri": "persons/bob_brown/icons/512.jpg",
+            "content": "Vitae suscipit tellus mauris a diam maecenas sed. Nunc sed velit dignissim sodales ut eu sem integer vitae.",
+        }
+    }]
+}

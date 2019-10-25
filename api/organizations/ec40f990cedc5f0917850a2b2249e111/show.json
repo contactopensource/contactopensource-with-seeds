@@ -1,0 +1,20 @@
+{
+    "data": [{
+        "comment": "Electronic Frontier Foundation",
+        "type": "organization",
+        "id": "ec40f990cedc5f0917850a2b2249e111",
+        "attributes": {
+            "key": "electronic_frontier_foundation",
+            "name": "Electronic Frontier Foundation",
+            "box_img_uri": "organizations/electronic_frontier_foundation/icons/512.png",
+            "email_address": "info@eff.org",
+            "telephone_text": "1 (415) 436-9333",
+            "postal_address_textarea": "815 Eddy St, San Francisco, CA 94109, US",
+            "facebook_uri": "https://www.facebook.com/eff/",
+            "twitter_uri": "https://twitter.com/EFF",
+            "twitter_bio": "We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world.",
+            "linkedin_uri": "https://www.linkedin.com/company/electronic-frontier-foundation/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/electronic-frontier-foundation"
+        }
+    }]
+}

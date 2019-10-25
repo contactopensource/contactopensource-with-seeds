@@ -1,0 +1,112 @@
+index.json
+afcfb403cbc5e5e141c261a51cd8ca1a
+20fb11cdef1f50a57f9f1def2a7c33a7
+fa4ecd261c7ca47ca52fe73eb29cb4f7
+c4acaf7e311c9b99aa2971805ec6acee
+9b5566442f8d1777fa17e8bd7a6e1019
+a426a8be5f5727b464adf3ff422f52a9
+{
+    "data": [{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "ZID",
+        "attributes": {
+            "key": "TODO",
+            "name": "Alpha Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "ZID",
+        "attributes": {
+            "key": "TODO",
+            "name": "Bravo Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "ZID",
+        "attributes": {
+            "key": "TODO",
+            "name": "Charlie Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "ZID",
+        "attributes": {
+            "key": "TODO",
+            "name": "Delta Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "ZID",
+        "attributes": {
+            "key": "TODO",
+            "name": "Echo Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "TYPE",
+        "id": "ZID",
+        "attributes": {
+            "key": "TODO",
+            "name": "Foxtrot Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    }]
+}

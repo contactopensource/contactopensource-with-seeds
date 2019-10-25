@@ -1,0 +1,19 @@
+{
+    "data": [{
+        "comment": "San Francisco Public Library",
+        "type": "geo_points",
+        "id": "8188e32e580c55d15d1ccd14373a2f88",
+        "attributes": {
+            "box_img_uri": "places/sfpl/icons/512.jpg",
+            "title": "San Francisco Public Library",
+            "subtitle": "San Francisco, CA, US",
+            "latitude": "37.795563",
+            "longitude": "-122.393312",
+            "altitude": "12.1",
+            "elevation": "12.1",
+            "openlocationcode_text": "849VQJW4+6M",
+            "whatthreewords_text": "banks.issues.socket",
+            "what3words_text": "solid.cracks.solar",
+        }
+    }]
+}

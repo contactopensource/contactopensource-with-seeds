@@ -1,0 +1,11 @@
+{
+    "data": [{
+        "comment": "f",
+        "type": "thing",
+        "id": "42e9e1b68e2a01c0c7c0c1a7c65a136e",
+        "attributes": {
+            "name": "fig",
+            "box_img_uri": "things/fig/icons/512.jpg"
+        }
+    }]
+}

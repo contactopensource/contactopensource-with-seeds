@@ -1,0 +1,20 @@
+{
+    "data": [{
+        "comment": "Goodwill",
+        "type": "organization",
+        "id": "bf860b655aad43c5ee2b228966635127",
+        "attributes": {
+            "key": "goodwill",
+            "name": "Goodwill Industries Intl",
+            "box_img_uri": "organizations/goodwill/icons/512.png",
+            "email_address": "contactus@goodwill.org",
+            "telephone_text": "(800) GOODWILL",
+            "postal_address_line": "TODO",
+            "facebook_uri": "https://www.facebook.com/GoodwillIntl/",
+            "twitter_uri": "https://twitter.com/GoodwillIntl",
+            "twitter_bio": "Nonprofit. Official twitter for Goodwill Industries International. Creating brighter futures through the #PowerOfWork. Find your Goodwill: http://goodwill.org/locator",
+            "linkedin_uri": "https://www.linkedin.com/company/goodwill-industries-international/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/goodwill-industries-international"
+        }
+    }]
+}

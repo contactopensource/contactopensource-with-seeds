@@ -1,0 +1,20 @@
+{
+    "data": [{
+        "comment": "Care International",
+        "type": "organization",
+        "id": "a5a7fe9c77040fc0fbefabfbc202ff4d",
+        "attributes": {
+            "key": "care",
+            "name": "Care International",
+            "box_img_uri": "organizations/care/icons/512.png",
+            "email_address": "info@care.org",
+            "telephone_text": "1-404-589-2619",
+            "postal_address_line": "Chemin de Balexert 7-9, 1219 Chatelaine (Geneva), Switzerland",
+            "facebook_uri": "https://www.facebook.com/carefans/",
+            "twitter_uri": "https://twitter.com/CAREGlobal",
+            "twitter_bio": "CARE is a leading international #humanitarian & development organisation that defeats #poverty and achieves #socialjustice through empowering women and girls.",
+            "linkedin_uri": "https://www.linkedin.com/company/care/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/care"
+        }
+    }]
+}

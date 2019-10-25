@@ -1,0 +1,105 @@
+{
+    "data": [{
+        "comment": "Amnesty International",
+        "type": "organization",
+        "id": "ccf8bf385cce40a4290ac17ee4c1c94b",
+        "attributes": {
+            "key": "amnesty_international",
+            "name": "Amnesty International",
+            "box_img_uri": "organizations/amnesty_international/icons/512.png",
+            "email_address": "info@amnesty.org",
+            "telephone_text": "1-800-AMNESTY",
+            "postal_address_line": "5 Penn Plaza, 16th Floor, New York, NY 10001, US",
+            "facebook_uri": "https://www.facebook.com/amnestyglobal/",
+            "twitter_uri": "https://twitter.com/amnesty",
+            "twitter_bio": "Freedom. Justice. Equality. Let's get to work.",
+            "linkedin_uri": "https://www.linkedin.com/company/amnesty-international/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/amnesty-international"
+        }
+    },{
+        "comment": "Burning Man",
+        "type": "organization",
+        "id": "3d3d20398ccb973e1033893db540c61f",
+        "attributes": {
+            "key": "burning_man",
+            "name": "Burning Man",
+            "box_img_uri": "organizations/burning_man/icons/512.jpg",
+            "email_address": "info@burningman.org",
+            "telephone_text": "1 (415) 865-3800",
+            "postal_address_line": "660 Alabama St, San Francisco, CA 94110, US",
+            "facebook_uri": "https://www.facebook.com/burningman/",
+            "twitter_uri": "https://twitter.com/burningman",
+            "twitter_bio": "The mission of Burning Man Project is to facilitate and extend the culture that has issued from the Burning Man event into the larger world.",
+            "linkedin_uri": "https://www.linkedin.com/company/burning-man-project/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/burning-man"
+        }
+    },{
+        "comment": "Care International",
+        "type": "organization",
+        "id": "a5a7fe9c77040fc0fbefabfbc202ff4d",
+        "attributes": {
+            "key": "care",
+            "name": "Care International",
+            "box_img_uri": "organizations/care/icons/512.png",
+            "email_address": "info@care.org",
+            "telephone_text": "1-404-589-2619",
+            "postal_address_line": "Chemin de Balexert 7-9, 1219 Chatelaine (Geneva), Switzerland",
+            "facebook_uri": "https://www.facebook.com/carefans/",
+            "twitter_uri": "https://twitter.com/CAREGlobal",
+            "twitter_bio": "CARE is a leading international #humanitarian & development organisation that defeats #poverty and achieves #socialjustice through empowering women and girls.",
+            "linkedin_uri": "https://www.linkedin.com/company/care/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/care"
+        }
+    },{
+        "comment": "Direct Relief",
+        "type": "organization",
+        "id": "f3c01abe5b51f7d5460bddf4924a1fa2",
+        "attributes": {
+            "key": "direct_relief",
+            "name": "Direct Relief",
+            "box_img_uri": "organizations/direct_relief/icons/512.png",
+            "email_address": "info@directrelief.org",
+            "telephone_text": "1-805-681-4838",
+            "postal_address_line": "6100 Wallace Becknell Rd, Santa Barbara, CA 93117, US",
+            "facebook_uri": "https://www.facebook.com/DirectRelief/",
+            "twitter_uri": "https://twitter.com/DirectRelief",
+            "twitter_bio": "Mission: Improve the health and lives of people affected by poverty or emergencies without regard to politics, religion, or ability to pay.",
+            "linkedin_uri": "https://www.linkedin.com/company/directrelief/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/direct-relief-international"
+        }
+    },{
+        "comment": "Electronic Frontier Foundation",
+        "type": "organization",
+        "id": "ec40f990cedc5f0917850a2b2249e111",
+        "attributes": {
+            "key": "electronic_frontier_foundation",
+            "name": "Electronic Frontier Foundation",
+            "box_img_uri": "organizations/electronic_frontier_foundation/icons/512.png",
+            "email_address": "info@eff.org",
+            "telephone_text": "1 (415) 436-9333",
+            "postal_address_textarea": "815 Eddy St, San Francisco, CA 94109, US",
+            "facebook_uri": "https://www.facebook.com/eff/",
+            "twitter_uri": "https://twitter.com/EFF",
+            "twitter_bio": "We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world.",
+            "linkedin_uri": "https://www.linkedin.com/company/electronic-frontier-foundation/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/electronic-frontier-foundation"
+        }
+    },{
+        "comment": "Feed the Children",
+        "type": "organization",
+        "id": "9aa2fb3c92eb1752d6d8814ecac122f1",
+        "attributes": {
+            "key": "feed_the_children",
+            "name": "Feed the Children",
+            "box_img_uri": "organizations/feed_the_children/icons/512.png",
+            "email_address": "info@.feedthechildren.org",
+            "telephone_text": "1.405.942.0228",
+            "postal_address_textarea": "333 N. Meridian, Oklahoma City, OK 73107",
+            "facebook_uri": "https://www.facebook.com/feedthechildren/",
+            "twitter_uri": "https://twitter.com/feedthechildren",
+            "twitter_bio": "We believe in a world where no child goes to bed hungry. #FeedtheChildren",
+            "linkedin_uri": "https://www.linkedin.com/company/feed-the-children/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/feed-the-children"
+        }
+    }]
+}

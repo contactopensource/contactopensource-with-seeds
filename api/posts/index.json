@@ -1,0 +1,12 @@
+{
+    "data": [{
+        "type": "post",
+        "id": "dc5b7dd916e97afd5495ee662a9c56a1",
+        "attributes": {
+            "title": "Care International",
+            "subtitle": "info@care.org",
+            "box_img_uri": "organizations/care/icons/512.png",
+            "content": "Augue mauris augue neque gravida in fermentum et sollicitudin. Nisl tincidunt eget nullam non nisi est. Mauris vitae ultricies leo integer malesuada nunc vel risus.",
+        }
+    }]
+}

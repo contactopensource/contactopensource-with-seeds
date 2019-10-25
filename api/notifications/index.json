@@ -1,0 +1,105 @@
+{
+    "data": [{
+        "comment": "TODO",
+        "type": "notification",
+        "id": "8524a25f2b1400b21b984d9357e1c01a",
+        "attributes": {
+            "key": "8524a25f2b1400b21b984d9357e1c01a",
+            "name": "Alpha Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "notification",
+        "id": "be3f5b0ac8dc8d1838f5e3e6a3ccacb3",
+        "attributes": {
+            "key": "be3f5b0ac8dc8d1838f5e3e6a3ccacb3",
+            "name": "Bravo Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "notification",
+        "id": "58faa8f9ad95d52a6f5e1752326cbba8",
+        "attributes": {
+            "key": "58faa8f9ad95d52a6f5e1752326cbba8",
+            "name": "Charlie Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "notification",
+        "id": "4f753f71b02e0ec11e392283a65d581d",
+        "attributes": {
+            "key": "4f753f71b02e0ec11e392283a65d581d",
+            "name": "Delta Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "notification",
+        "id": "a38433a33d3e7589b64e3922328e5166",
+        "attributes": {
+            "key": "a38433a33d3e7589b64e3922328e5166",
+            "name": "Echo Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "notification",
+        "id": "ce618a7a817a4e8dfc1b553533ed0beb",
+        "attributes": {
+            "key": "ce618a7a817a4e8dfc1b553533ed0beb",
+            "name": "Foxtrot Name",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    }]
+}

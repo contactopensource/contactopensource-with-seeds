@@ -1,0 +1,11 @@
+{
+    "data": [{
+        "comment": "Care International -> Donation pickup",
+        "type": "event",
+        "id": "ed75c0fb0ab330c58724d35b8d0fab32",
+        "attributes": {
+            "organization_id": "a5a7fe9c77040fc0fbefabfbc202ff4d",
+            "name": "Create free medical care"
+        }
+    }]
+}

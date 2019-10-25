@@ -1,0 +1,111 @@
+{
+    "data": [{
+        "comment": "TODO",
+        "type": "book",
+        "id": "06a5c475635a44faae1fa88b715f84a2",
+        "attributes": {
+            "key": "antigone",
+            "name": "Antigone",
+            "subtitle": "By Sophocles",
+            "box_img_uri": "books/antigone/icons/512.jpg",
+            "email_address": "antigone@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "book",
+        "id": "3d45384aa6399becca61fd45db9c9c0f",
+        "attributes": {
+            "key": "beloved",
+            "name": "Beloved",
+            "subtitle": "By Toni Morrison",
+            "box_img_uri": "books/beloved/icons/512.jpg",
+            "email_address": "beloved@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "book",
+        "id": "8b7bef09ea9dcfe89d43830b44ed69a5",
+        "attributes": {
+            "key": "candide",
+            "name": "Candide",
+            "subtitle": "By Voltaire",
+            "box_img_uri": "books/candide/icons/512.jpg",
+            "email_address": "candide@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "book",
+        "id": "de373ae3f75b06570fa44fc3ce716265",
+        "attributes": {
+            "key": "decameron",
+            "name": "Decameron",
+            "subtitle": "By Giovanni Boccaccio",
+            "box_img_uri": "books/decameron/icons/512.jpg",
+            "email_address": "decameron@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "book",
+        "id": "470b25b0225a58605bdad4498f396df4",
+        "attributes": {
+            "key": "emma",
+            "name": "Emma",
+            "subtitle": "By Jane Austin",
+            "box_img_uri": "books/emma/icons/512.jpg",
+            "email_address": "emma@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    },{
+        "comment": "TODO",
+        "type": "book",
+        "id": "124ac9c71ef2607857941d4942a0da9a",
+        "attributes": {
+            "key": "frankenstein",
+            "name": "Frankenstein",
+            "subtitle": "By Mary Shelley",
+            "box_img_uri": "books/frankenstein/icons/512.jpg",
+            "email_address": "frankenstein@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    }]
+}

@@ -1,0 +1,12 @@
+{
+    "data": [{
+        "type": "post",
+        "id": "b70416ab8424ddead9e13033be1f9625",
+        "attributes": {
+            "title": "Carol Clark",
+            "subtitle": "carol.clark@example.com",
+            "box_img_uri": "persons/carol_clark/icons/512.jpg",
+            "content": "Viverra justo nec ultrices dui. Leo integer malesuada nunc vel. Blandit libero volutpat sed cras. A cras semper auctor neque vitae tempus quam pellentesque.",
+        }
+    }]
+}

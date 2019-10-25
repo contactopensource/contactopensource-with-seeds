@@ -1,0 +1,19 @@
+{
+    "data": [{
+        "comment": "New York Public Library",
+        "type": "geo_points",
+        "id": "c1346940d621bb901eb2ea3f904f5229",
+        "attributes": {
+            "title": "New York Public Library",
+            "subtitle": "New York, NY, US",
+            "box_img_uri": "places/nypl/icons/512.jpg",
+            "latitude": "40.752687",
+            "longitude": "73.977188",
+            "altitude": "39.6",
+            "elevation": "39.6",
+            "openlocationcode_text": "87G8Q23F+34",
+            "whatthreewords_text": "rubble.occurs.holds",
+            "what3words_text": "burst.fully.things",
+        }
+    }]
+}

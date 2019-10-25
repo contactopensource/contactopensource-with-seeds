@@ -1,0 +1,12 @@
+{
+    "data": [{
+        "type": "post",
+        "id": "0478736ed109d3e44f22e040fb00d75c",
+        "attributes": {
+            "title": "Amnesty International",
+            "subtitle": "info@amnesty.org",
+            "box_img_uri": "organizations/amnesty_international/icons/512.png",
+            "content": "Cras ornare arcu dui vivamus arcu. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Pellentesque habitant morbi tristique senectus.",
+        }
+    }]
+}

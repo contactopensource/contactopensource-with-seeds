@@ -1,0 +1,12 @@
+{
+    "data": [{
+        "type": "post",
+        "id": "cae9d8f8b5f982122ee0039a260ebbc2",
+        "attributes": {
+            "title": "Alice Adams",
+            "subtitle": "alice.adams@example.com",
+            "box_img_uri": "persons/alice_adams/icons/512.jpg",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        }
+    }]
+}

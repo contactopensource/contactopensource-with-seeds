@@ -1,0 +1,19 @@
+{
+    "data": [{
+        "comment": "San Francisco Ferry Building",
+        "type": "geo_points",
+        "id": "6e7e03c894c96caeee4719e3dcccd339",
+        "attributes": {
+            "title": "Ferry Building",
+            "subtitle": "San Francisco, CA, US",
+            "box_img_uri": "places/ferry_building/icons/512.jpg",
+            "latitude": "37.795563",
+            "longitude": "-122.393312",
+            "altitude": "12.1",
+            "elevation": "12.1",
+            "openlocationcode_text": "849VQJW4+6M",
+            "whatthreewords_text": "banks.issues.socket",
+            "what3words_text": "solid.cracks.solar",
+        }
+    }]
+}

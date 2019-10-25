@@ -1,0 +1,11 @@
+{
+    "data": [{
+        "comment": "Electronic Frontier Foundation",
+        "type": "event",
+        "id": "bee5b22186ae817e02c766b1c56862bb",
+        "attributes": {
+            "organization_id": "ec40f990cedc5f0917850a2b2249e111",
+            "name": "Evening event"
+        }
+    }]
+}

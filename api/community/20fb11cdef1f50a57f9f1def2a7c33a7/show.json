@@ -1,0 +1,12 @@
+{
+    "data": [{
+        "type": "post",
+        "id": "ZID",
+        "attributes": {
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "content": "LOREM",
+        }
+    }]
+}

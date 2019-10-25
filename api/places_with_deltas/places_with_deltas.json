@@ -1,0 +1,123 @@
+{
+    "data": [{
+        "comment": "New York Grand Central",
+        "type": "geo_points",
+        "id": "c8fb5187e718484eefb9e8dceef4cd68",
+        "attributes": {
+            "latitude": "40.752687",
+            "longitude": "73.977188",
+            "altitude": "39.6",
+            "elevation": "39.6"
+        }
+    },{
+        "comment": "New York Grand Central, delta -0.1 latitude, -0.1 longitude",
+        "type": "geo_points",
+        "id": "d3ef3da36e8e835a464b51b00ae9a827",
+        "attributes": {
+            "latitude": "40.652687",
+            "longitude": "73.877188",
+            "altitude": "39.6",
+            "elevation": "39.6"
+        }
+    },{
+        "comment": "New York Grand Central, delta +0.1 latitude, +0.1 longitude",
+        "type": "geo_points",
+        "id": "17c3d2697fea9eeeca776f855b69b394",
+        "attributes": {
+            "latitude": "40.852687",
+            "longitude": "74.077188",
+            "altitude": "39.6",
+            "elevation": "39.6"
+        }
+    },{
+        "comment": "San Francisco Ferry Building",
+        "type": "geo_points",
+        "id": "6e7e03c894c96caeee4719e3dcccd339",
+        "attributes": {
+            "latitude": "37.795563",
+            "longitude": "-122.393312",
+            "altitude": "12.1",
+            "elevation": "12.1"
+        }
+    },{
+        "comment": "San Francisco Ferry Building, delta -0.1 latitude, -0.1 longitude",
+        "type": "geo_points",
+        "id": "dffa13312090a7966cc05af0bcecebc4",
+        "attributes": {
+            "latitude": "37.695563",
+            "longitude": "-122.293312",
+            "altitude": "12.1",
+            "elevation": "12.1"
+        }
+    },{
+        "comment": "San Francisco Ferry Building, delta +0.1 latitude, +0.1 longitude",
+        "type": "geo_points",
+        "id": "a93526cc717f3bc83e32ed2e74d1fc85",
+        "attributes": {
+            "latitude": "37.805563",
+            "longitude": "-122.493312",
+            "altitude": "12.1",
+            "elevation": "12.1"
+        }
+    },{
+        "comment": "New York, Grand Central, Open Location Code",
+        "type": "tags",
+        "id": "353fc6f3bfc3c56a5a687f9a986af0da",
+        "attributes": {
+            "set_id for Open Location Code": "03d0ca793b075f06f2fb6eb41084abd5",
+            "parent_id": "NULL",
+            "text": "87G8Q23F+34",
+            "description": "Grand Central, New York, NY, US + Open Location Code"
+        }
+    },{
+        "comment": "New York, Grand Central, What3Words",
+        "type": "tags",
+        "id": "c2d3cea54d44a64ad5093c5aaa7076ae",
+        "attributes": {
+            "set_id for What3Words": "b712df2becc88dcb7201572e1bbc0980",
+            "parent_id": "NULL",
+            "text": "rubble.occurs.holds",
+            "description": "Grand Central, New York, NY, US + What3Words"
+        }
+    },{
+        "comment": "New York, Grand Central, WhatFreeWords",
+        "type": "tags",
+        "id": "6e832771f5f844deabce47ebbfc8eba0",
+        "attributes": {
+            "set_id for WhatFreeWords": "fb126177afe10f5dbe512449a81df9f3",
+            "parent_id": "NULL",
+            "text": "burst.fully.things",
+            "description": "Grand Central, New York, NY, US + WhatFreeWords"
+        }
+    },{
+        "comment": "San Francisco, Ferry Building, Open Location Code",
+        "type": "tags",
+        "id": "a15b731ccf676e1340caa969fc3a43cc",
+        "attributes": {
+            "set_id for Open Location Code": "03d0ca793b075f06f2fb6eb41084abd5",
+            "parent_id": "NULL",
+            "text": "849VQJW4+6M",
+            "description": "Ferry Building, San Francisco, CA, US + Open Location Code"
+        }
+    },{
+        "comment": "San Francisco, Ferry Building, What3Words",
+        "type": "tags",
+        "id": "96832a0db64a21acf88fa619ce08b93a",
+        "attributes": {
+            "set_id for What3Words": "b712df2becc88dcb7201572e1bbc0980",
+            "parent_id": "NULL",
+            "text": "banks.issues.socket",
+            "description": "Ferry Building, San Francisco, CA, US + What3Words"
+        }
+    },{
+        "comment": "San Francisco, Ferry Building, WhatFreeWords",
+        "type": "tags",
+        "id": "4a7b52bd2ec81616100990b38fa6fcc6",
+        "attributes": {
+            "set_id for WhatFreeWords": "fb126177afe10f5dbe512449a81df9f3",
+            "parent_id": "NULL",
+            "text": "solid.cracks.solar",
+            "description": "Ferry Building, San Francisco, CA, US + WhatFreeWords"
+        }
+    }]
+}

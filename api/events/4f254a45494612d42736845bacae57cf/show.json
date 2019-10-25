@@ -1,0 +1,11 @@
+{
+    "data": [{
+        "comment": "Amnesty International -> Letter writing",
+        "type": "event",
+        "id": "4f254a45494612d42736845bacae57cf",
+        "attributes": {
+            "organization_id": "ccf8bf385cce40a4290ac17ee4c1c94b",
+            "name": "Afternoon event"
+        }
+    }]
+}

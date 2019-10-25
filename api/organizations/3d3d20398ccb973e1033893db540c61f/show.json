@@ -1,0 +1,20 @@
+{
+    "data": [{
+        "comment": "Burning Man",
+        "type": "organization",
+        "id": "3d3d20398ccb973e1033893db540c61f",
+        "attributes": {
+            "key": "burning_man",
+            "name": "Burning Man",
+            "box_img_uri": "organizations/burning_man/icons/512.jpg",
+            "email_address": "info@burningman.org",
+            "telephone_text": "1 (415) 865-3800",
+            "postal_address_line": "660 Alabama St, San Francisco, CA 94110, US",
+            "facebook_uri": "https://www.facebook.com/burningman/",
+            "twitter_uri": "https://twitter.com/burningman",
+            "twitter_bio": "The mission of Burning Man Project is to facilitate and extend the culture that has issued from the Burning Man event into the larger world.",
+            "linkedin_uri": "https://www.linkedin.com/company/burning-man-project/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/burning-man"
+        }
+    }]
+}

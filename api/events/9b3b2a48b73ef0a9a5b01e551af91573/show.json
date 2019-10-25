@@ -1,0 +1,11 @@
+{
+    "data": [{
+        "comment": "Direct Relief",
+        "type": "event",
+        "id": "9b3b2a48b73ef0a9a5b01e551af91573",
+        "attributes": {
+            "organization_id": "f3c01abe5b51f7d5460bddf4924a1fa2",
+            "name": "Donation event"
+        }
+    }]
+}

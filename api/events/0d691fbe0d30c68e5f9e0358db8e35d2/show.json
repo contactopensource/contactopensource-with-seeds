@@ -1,0 +1,11 @@
+{
+    "data": [{
+        "comment": "Care International -> Donation pickup",
+        "type": "event",
+        "id": "0d691fbe0d30c68e5f9e0358db8e35d2",
+        "attributes": {
+            "organization_id": "a5a7fe9c77040fc0fbefabfbc202ff4d",
+            "name": "Charity event"
+        }
+    }]
+}
