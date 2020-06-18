@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Antigone",
+        "type": "book",
+        "id": "06a5c475635a44faae1fa88b715f84a2",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "antigone",
+            "name": "Antigone",
+            "subtitle": "By Sophocles",
+            "box_img_uri": "books/antigone/icons/512.jpg",
+            "email_address": "antigone@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

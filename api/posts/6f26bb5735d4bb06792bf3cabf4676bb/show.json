@@ -1,0 +1,12 @@
+{
+    "data": [{
+        "type": "post",
+        "id": "6f26bb5735d4bb06792bf3cabf4676bb",
+        "attributes": {
+            "title": "Frank Franklin",
+            "subtitle": "frank.franklin@example.com",
+            "box_img_uri": "persons/frank_franklin/icons/512.jpg",
+            "content": "Commodo viverra maecenas accumsan lacus vel. Faucibus ornare suspendisse sed nisi lacus sed viverra. Morbi tristique senectus et netus et malesuada.",
+        }
+    }]
+}

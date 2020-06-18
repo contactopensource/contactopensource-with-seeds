@@ -1,12 +1,20 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Charlie",
+        "type": "notification",
+        "id": "58faa8f9ad95d52a6f5e1752326cbba8",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
+            "key": "charlie",
+            "name": "Charlie Notification",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "email_address": "charlie.notification@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

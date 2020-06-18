@@ -1,12 +1,20 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Bravo",
+        "type": "news",
+        "id": "80b4410874c8fe6f7571f62b5b06cb72",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
+            "key": "bravo",
+            "name": "Bravo News",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "email_address": "bravo.news@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

@@ -1,12 +1,20 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Alpha",
+        "type": "volunteer",
+        "id": "0fe34fa1ef0b8db83c93d7e623a2df76",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
+            "key": "alpha",
+            "name": "Alpha Name",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "email_address": "alpha.volunteer@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

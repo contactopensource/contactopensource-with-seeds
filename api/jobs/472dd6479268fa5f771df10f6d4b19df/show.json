@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Amnesty International -> Alpha Job",
+        "type": "job",
+        "id": "472dd6479268fa5f771df10f6d4b19df",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "amnesty_international_alpha_job",
+            "organization_id": "ccf8bf385cce40a4290ac17ee4c1c94b",
+            "name": "Alpha Job",
+            "box_img_uri": "organizations/amnesty_international/icons/512.png",
+            "email_address": "info@amnesty.org",
+            "telephone_text": "1-800-AMNESTY",
+            "postal_address_line": "5 Penn Plaza, 16th Floor, New York, NY 10001, US",
+            "facebook_uri": "https://www.facebook.com/amnestyglobal/",
+            "twitter_uri": "https://twitter.com/amnesty",
+            "twitter_bio": "Freedom. Justice. Equality. Let's get to work.",
+            "linkedin_uri": "https://www.linkedin.com/company/amnesty-international/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/amnesty-international"
         }
     }]
 }

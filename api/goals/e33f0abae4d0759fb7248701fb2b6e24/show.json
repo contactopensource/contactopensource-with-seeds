@@ -1,11 +1,20 @@
 {
     "data": [{
-        "comment": "Direct Relief",
-        "type": "event",
+        "comment": "Delta",
+        "type": "goal",
         "id": "e33f0abae4d0759fb7248701fb2b6e24",
         "attributes": {
-            "organization_id": "f3c01abe5b51f7d5460bddf4924a1fa2",
-            "name": "Develop donation drive"
+            "key": "delta",
+            "name": "Delta Goal",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "delta.goal@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

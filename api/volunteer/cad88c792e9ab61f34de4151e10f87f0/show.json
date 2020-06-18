@@ -1,12 +1,20 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Foxtrot",
+        "type": "volunteer",
+        "id": "cad88c792e9ab61f34de4151e10f87f0",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
+            "key": "foxtrot",
+            "name": "Foxtrot Name",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "email_address": "foxtrot.volunteer@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Frankenstein",
+        "type": "book",
+        "id": "124ac9c71ef2607857941d4942a0da9a",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "frankenstein",
+            "name": "Frankenstein",
+            "subtitle": "By Mary Shelley",
+            "box_img_uri": "books/frankenstein/icons/512.jpg",
+            "email_address": "frankenstein@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

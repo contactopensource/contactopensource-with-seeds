@@ -1,11 +1,21 @@
 {
     "data": [{
-        "comment": "Burning Man -> Trip planning",
+        "comment": "Burning Man -> Breakfast event",
         "type": "organization",
         "id": "08aa9a1c4d6e00cb7e0685c28c6d81ad",
         "attributes": {
+            "key": "burning_man_breakfast_event",
             "organization_id": "3d3d20398ccb973e1033893db540c61f",
-            "name": "Breakfast event"
+            "name": "Breakfast event",
+            "box_img_uri": "organizations/burning_man/icons/512.jpg",
+            "email_address": "info@burningman.org",
+            "telephone_text": "1 (415) 865-3800",
+            "postal_address_line": "660 Alabama St, San Francisco, CA 94110, US",
+            "facebook_uri": "https://www.facebook.com/burningman/",
+            "twitter_uri": "https://twitter.com/burningman",
+            "twitter_bio": "The mission of Burning Man Project is to facilitate and extend the culture that has issued from the Burning Man event into the larger world.",
+            "linkedin_uri": "https://www.linkedin.com/company/burning-man-project/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/burning-man"
         }
     }]
 }

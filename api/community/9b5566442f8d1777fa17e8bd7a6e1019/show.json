@@ -1,12 +1,20 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Delta",
+        "type": "community",
+        "id": "c4acaf7e311c9b99aa2971805ec6acee",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
+            "key": "delta",
+            "name": "Delta Community",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "email_address": "delta.community@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

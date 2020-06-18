@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "TODO",
+        "comment": "Alpha",
         "type": "notification",
         "id": "8524a25f2b1400b21b984d9357e1c01a",
         "attributes": {
-            "key": "8524a25f2b1400b21b984d9357e1c01a",
-            "name": "Alpha Name",
+            "key": "alpha",
+            "name": "Alpha Notification",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "alpha.notification@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -17,14 +17,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Bravo",
         "type": "notification",
         "id": "be3f5b0ac8dc8d1838f5e3e6a3ccacb3",
         "attributes": {
-            "key": "be3f5b0ac8dc8d1838f5e3e6a3ccacb3",
-            "name": "Bravo Name",
+            "key": "bravo",
+            "name": "Bravo Notification",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "bravo.notification@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -34,14 +34,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Charlie",
         "type": "notification",
         "id": "58faa8f9ad95d52a6f5e1752326cbba8",
         "attributes": {
-            "key": "58faa8f9ad95d52a6f5e1752326cbba8",
-            "name": "Charlie Name",
+            "key": "charlie",
+            "name": "Charlie Notification",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "charlie.notification@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -51,14 +51,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Delta",
         "type": "notification",
         "id": "4f753f71b02e0ec11e392283a65d581d",
         "attributes": {
             "key": "4f753f71b02e0ec11e392283a65d581d",
-            "name": "Delta Name",
+            "name": "Delta Notification",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "delta.notification@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -68,14 +68,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Echo",
         "type": "notification",
         "id": "a38433a33d3e7589b64e3922328e5166",
         "attributes": {
-            "key": "a38433a33d3e7589b64e3922328e5166",
-            "name": "Echo Name",
+            "key": "echo",
+            "name": "Echo Notification",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "echo.notification@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -85,14 +85,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Foxtrot",
         "type": "notification",
         "id": "ce618a7a817a4e8dfc1b553533ed0beb",
         "attributes": {
-            "key": "ce618a7a817a4e8dfc1b553533ed0beb",
-            "name": "Foxtrot Name",
+            "key": "foxtrot",
+            "name": "Foxtrot Notification",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "foxtrot.notification@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

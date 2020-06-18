@@ -1,0 +1,21 @@
+{
+    "data": [{
+        "comment": "Edinburgh",
+        "type": "travel",
+        "id": "95b3f6e4c6176b6387db3b140702cb79",
+        "attributes": {
+            "key": "edinburgh",
+            "name": "Edinburgh",
+            "subtitle": "Scotland",
+            "box_img_uri": "travels/edinburgh/icons/512.jpg",
+            "email_address": "edinburgh@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    }]
+}

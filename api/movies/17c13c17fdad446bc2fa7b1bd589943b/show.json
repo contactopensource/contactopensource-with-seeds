@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Charlie's",
+        "type": "movie",
+        "id": "17c13c17fdad446bc2fa7b1bd589943b",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "charlies-angels",
+            "name": "Charlie's Angels",
+            "subtitle": "\"I run a covert group of exceptional women. We work outside the rules, in secret, together.\" - Susan Bosely",
+            "box_img_uri": "movies/charlies-angels/icons/512.jpg",
+            "email_address": "charlies-angels@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

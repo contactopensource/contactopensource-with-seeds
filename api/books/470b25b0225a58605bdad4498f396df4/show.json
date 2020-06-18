@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Emma",
+        "type": "book",
+        "id": "470b25b0225a58605bdad4498f396df4",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "emma",
+            "name": "Emma",
+            "subtitle": "By Jane Austin",
+            "box_img_uri": "books/emma/icons/512.jpg",
+            "email_address": "emma@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

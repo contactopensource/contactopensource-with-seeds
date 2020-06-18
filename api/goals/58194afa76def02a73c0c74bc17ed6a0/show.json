@@ -1,11 +1,20 @@
 {
     "data": [{
-        "comment": "Electronic Frontier Foundation",
-        "type": "event",
+        "comment": "Charlie",
+        "type": "goal",
         "id": "58194afa76def02a73c0c74bc17ed6a0",
         "attributes": {
-            "organization_id": "ec40f990cedc5f0917850a2b2249e111",
-            "name": "Enable freedom for everyone"
+            "key": "charlie",
+            "name": "Charlie Goal",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "charlie.goal@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

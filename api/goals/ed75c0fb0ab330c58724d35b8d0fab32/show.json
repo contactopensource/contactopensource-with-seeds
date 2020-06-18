@@ -1,11 +1,20 @@
 {
     "data": [{
-        "comment": "Care International -> Donation pickup",
-        "type": "event",
+        "comment": "Echo",
+        "type": "goal",
         "id": "ed75c0fb0ab330c58724d35b8d0fab32",
         "attributes": {
-            "organization_id": "a5a7fe9c77040fc0fbefabfbc202ff4d",
-            "name": "Create free medical care"
+            "key": "echo",
+            "name": "Echo Goal",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "echo.goal@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

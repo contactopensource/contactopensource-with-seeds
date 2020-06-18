@@ -1,20 +1,13 @@
-index.json
-afcfb403cbc5e5e141c261a51cd8ca1a
-20fb11cdef1f50a57f9f1def2a7c33a7
-fa4ecd261c7ca47ca52fe73eb29cb4f7
-c4acaf7e311c9b99aa2971805ec6acee
-9b5566442f8d1777fa17e8bd7a6e1019
-a426a8be5f5727b464adf3ff422f52a9
 {
     "data": [{
-        "comment": "TODO",
-        "type": "TYPE",
-        "id": "ZID",
+        "comment": "Alpha",
+        "type": "community",
+        "id": "afcfb403cbc5e5e141c261a51cd8ca1a",
         "attributes": {
-            "key": "TODO",
-            "name": "Alpha Name",
+            "key": "alpha",
+            "name": "Alpha Community",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "alpha.community@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -24,14 +17,14 @@ a426a8be5f5727b464adf3ff422f52a9
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
-        "id": "ZID",
+        "comment": "Bravo",
+        "type": "community",
+        "id": "20fb11cdef1f50a57f9f1def2a7c33a7",
         "attributes": {
-            "key": "TODO",
-            "name": "Bravo Name",
+            "key": "bravo",
+            "name": "Bravo Community",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "bravo.community@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -41,14 +34,14 @@ a426a8be5f5727b464adf3ff422f52a9
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
-        "id": "ZID",
+        "comment": "Charlie",
+        "type": "community",
+        "id": "fa4ecd261c7ca47ca52fe73eb29cb4f7",
         "attributes": {
-            "key": "TODO",
-            "name": "Charlie Name",
+            "key": "charlie",
+            "name": "Charlie Community",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "charlie.community@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -58,14 +51,14 @@ a426a8be5f5727b464adf3ff422f52a9
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
-        "id": "ZID",
+        "comment": "Delta",
+        "type": "community",
+        "id": "c4acaf7e311c9b99aa2971805ec6acee",
         "attributes": {
-            "key": "TODO",
-            "name": "Delta Name",
+            "key": "delta",
+            "name": "Delta Community",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "delta.community@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -75,14 +68,14 @@ a426a8be5f5727b464adf3ff422f52a9
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
-        "id": "ZID",
+        "comment": "Echo",
+        "type": "community",
+        "id": "a426a8be5f5727b464adf3ff422f52a9",
         "attributes": {
-            "key": "TODO",
-            "name": "Echo Name",
+            "key": "echo",
+            "name": "Echo Community",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "echo.community@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -92,14 +85,14 @@ a426a8be5f5727b464adf3ff422f52a9
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
-        "id": "ZID",
+        "comment": "Foxtrot",
+        "type": "community",
+        "id": "fa4ecd261c7ca47ca52fe73eb29cb4f7",
         "attributes": {
-            "key": "TODO",
-            "name": "Foxtrot Name",
+            "key": "foxtrot",
+            "name": "Foxtrot Community",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "foxtrot.community@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

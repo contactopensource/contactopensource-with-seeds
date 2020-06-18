@@ -1,11 +1,21 @@
 {
     "data": [{
-        "comment": "Direct Relief",
+        "comment": "Direct Relief -> Donation event",
         "type": "event",
         "id": "9b3b2a48b73ef0a9a5b01e551af91573",
         "attributes": {
+            "key": "direct_relief_donation_event",
             "organization_id": "f3c01abe5b51f7d5460bddf4924a1fa2",
-            "name": "Donation event"
+            "name": "Donation event",
+            "box_img_uri": "organizations/direct_relief/icons/512.png",
+            "email_address": "info@directrelief.org",
+            "telephone_text": "1-805-681-4838",
+            "postal_address_line": "6100 Wallace Becknell Rd, Santa Barbara, CA 93117, US",
+            "facebook_uri": "https://www.facebook.com/DirectRelief/",
+            "twitter_uri": "https://twitter.com/DirectRelief",
+            "twitter_bio": "Mission: Improve the health and lives of people affected by poverty or emergencies without regard to politics, religion, or ability to pay.",
+            "linkedin_uri": "https://www.linkedin.com/company/directrelief/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/direct-relief-international"
         }
     }]
 }

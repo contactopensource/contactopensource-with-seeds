@@ -1,12 +1,20 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Charlie",
+        "type": "news",
+        "id": "7fa6190d8bf7680eb400ec7a7cdc4ce5",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
+            "key": "charlie",
+            "name": "Charlie News",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "email_address": "charlie.news@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

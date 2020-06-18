@@ -1,12 +1,18 @@
 {
-    "data": [{
-        "type": "post",
-        "id": "ZID",
-        "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
-        }
-    }]
+    "comment": "Echo",
+    "type": "notification",
+    "id": "a38433a33d3e7589b64e3922328e5166",
+    "attributes": {
+        "key": "echo",
+        "name": "Echo Notification",
+        "box_img_uri": "TYPE/ZID/icons/512.png",
+        "email_address": "echo.notification@example.org",
+        "telephone_text": "",
+        "postal_address_line": "",
+        "facebook_uri": "https://www.facebook.com/",
+        "twitter_uri": "https://twitter.com/",
+        "twitter_bio": "",
+        "linkedin_uri": "https://www.linkedin.com/",
+        "crunchbase_uri": "https://www.crunchbase.com/"
+    }
 }

@@ -1,0 +1,21 @@
+{
+    "data": [{
+        "comment": "Dubai",
+        "type": "travel",
+        "id": "62ff59b3b61d58014a974613a50d4222",
+        "attributes": {
+            "key": "dubai",
+            "name": "Dubai",
+            "subtitle": "United Arab Emirates",
+            "box_img_uri": "travels/dubai/icons/512.jpg",
+            "email_address": "dubai@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    }]
+}

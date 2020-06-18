@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "TODO",
-         "type": "post",
+        "comment": "Archery",
+        "type": "sport",
         "id": "c2c497804b2ec4529ca37f496766c787",
         "attributes": {
-            "key": "c2c497804b2ec4529ca37f496766c787",
-            "name": "Alpha Name",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "key": "archery",
+            "name": "Archery",
+            "box_img_uri": "sports/archery/icons/512.png",
+            "email_address": "archery@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -17,14 +17,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-         "type": "post",
+        "comment": "Basketball",
+        "type": "sport",
         "id": "82b908391c486a5c443cec3075011875",
         "attributes": {
-            "key": "82b908391c486a5c443cec3075011875",
-            "name": "Bravo Name",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "key": "basketball",
+            "name": "Basketball",
+            "box_img_uri": "sports/basketball/icons/512.png",
+            "email_address": "brabasketball@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -34,14 +34,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-         "type": "post",
+        "comment": "Cricket",
+        "type": "sport",
         "id": "7cb8bb60825f29db9340b2a9801bd343",
         "attributes": {
-            "key": "7cb8bb60825f29db9340b2a9801bd343",
-            "name": "Charlie Name",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "key": "cricket",
+            "name": "Cricket",
+            "box_img_uri": "sports/cricket/icons/512.png",
+            "email_address": "cricket@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -51,14 +51,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-         "type": "post",
+        "comment": "Dodgeball",
+        "type": "sport",
         "id": "a49a15c1a1ba6564434cf37f96ff27ec",
         "attributes": {
-            "key": "a49a15c1a1ba6564434cf37f96ff27ec",
-            "name": "Delta Name",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "key": "dodgeball",
+            "name": "Dodgeball",
+            "box_img_uri": "sports/dodgeball/icons/512.png",
+            "email_address": "dodgeball@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -68,14 +68,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-         "type": "post",
+        "comment": "Equestrianism",
+        "type": "sport",
         "id": "132471eafaeed9b9a83b22b4568302de",
         "attributes": {
-            "key": "132471eafaeed9b9a83b22b4568302de",
-            "name": "Echo Name",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "key": "equestrianism",
+            "name": "Equestrianism",
+            "box_img_uri": "sports/equestrianism/icons/512.png",
+            "email_address": "equestrianism@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -85,14 +85,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-         "type": "post",
+        "comment": "Fencing",
+        "type": "sport",
         "id": "2b0d56b6be79dd231c32bc29ea4922a1",
         "attributes": {
-            "key": "2b0d56b6be79dd231c32bc29ea4922a1",
-            "name": "Foxtrot Name",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "key": "fencing",
+            "name": "Fencing",
+            "box_img_uri": "sports/fencing/icons/512.png",
+            "email_address": "fencing@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

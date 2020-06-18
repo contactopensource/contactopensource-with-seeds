@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Dunkirk",
+        "type": "movie",
+        "id": "7904e19f636317e72b5ac967aa13b775",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "dunkirk",
+            "name": "Dunkirk",
+            "subtitle": "\"We shall never surrender.\" - Churchill",
+            "box_img_uri": "movies/dunkirk/icons/512.jpg",
+            "email_address": "dunkirk@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Care International -> Charlie Job",
+        "type": "job",
+        "id": "90fe4ba71195d852255c7dce7d05e2ef",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "care_international_charlie_job",
+            "organization_id": "a5a7fe9c77040fc0fbefabfbc202ff4d",
+            "name": "Charlie Job",
+            "box_img_uri": "organizations/care/icons/512.png",
+            "email_address": "info@care.org",
+            "telephone_text": "1-404-589-2619",
+            "postal_address_line": "Chemin de Balexert 7-9, 1219 Chatelaine (Geneva), Switzerland",
+            "facebook_uri": "https://www.facebook.com/carefans/",
+            "twitter_uri": "https://twitter.com/CAREGlobal",
+            "twitter_bio": "CARE is a leading international #humanitarian & development organisation that defeats #poverty and achieves #socialjustice through empowering women and girls.",
+            "linkedin_uri": "https://www.linkedin.com/company/care/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/care"
         }
     }]
 }

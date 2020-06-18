@@ -38,7 +38,7 @@
         "type": "organization",
         "id": "a5a7fe9c77040fc0fbefabfbc202ff4d",
         "attributes": {
-            "key": "care",
+            "key": "care_internatioal",
             "name": "Care International",
             "box_img_uri": "organizations/care/icons/512.png",
             "email_address": "info@care.org",

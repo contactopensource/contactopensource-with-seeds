@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Avengers",
+        "type": "movie",
+        "id": "3ce61643fba7fd20d0a55f7be654b95d",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "avengers-endgame",
+            "name": "Avengers Endgame",
+            "subtitle": "\"This is the fight of our lives. We are going to win, whatever it takes.\" - Captain America",
+            "box_img_uri": "movies/avengers-endgame/icons/512.jpg",
+            "email_address": "avengers-endgame@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

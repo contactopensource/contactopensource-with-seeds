@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Ferris",
+        "type": "movie",
+        "id": "c097946a8e6a31ee2121fd8c3b7a280e",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "ferris-buellers-day-off",
+            "name": "Ferris Bueller's Day Off",
+            "subtitle": "\"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.\" — Ferris Bueller",
+            "box_img_uri": "movies/ferris-buellers-day-off/icons/512.jpg",
+            "email_address": "ferris-buellers-day-off@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "TODO",
-        "type": "TYPE",
+        "comment": "Alpha",
+        "type": "volunteer",
         "id": "0fe34fa1ef0b8db83c93d7e623a2df76",
         "attributes": {
-            "key": "0fe34fa1ef0b8db83c93d7e623a2df76",
+            "key": "alpha",
             "name": "Alpha Name",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "alpha.volunteer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -17,14 +17,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
+        "comment": "Bravo",
+        "type": "volunteer",
         "id": "2250ed610b4a2e79ed67f562abbcfe65",
         "attributes": {
-            "key": "2250ed610b4a2e79ed67f562abbcfe65",
+            "key": "bravo",
             "name": "Bravo Name",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "bravo.volunteer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -34,14 +34,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
+        "comment": "Charlie",
+        "type": "volunteer",
         "id": "3eec502827967880eddf0722da77972c",
         "attributes": {
-            "key": "3eec502827967880eddf0722da77972c",
+            "key": "charlie",
             "name": "Charlie Name",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "charlie.volunteer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -51,14 +51,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
+        "comment": "Delta",
+        "type": "volunteer",
         "id": "6a7db6c1f970c36e29d2765e3a0c5999",
         "attributes": {
-            "key": "6a7db6c1f970c36e29d2765e3a0c5999",
+            "key": "delta",
             "name": "Delta Name",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "delta.volunteer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -68,14 +68,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
+        "comment": "Echo",
+        "type": "volunteer",
         "id": "db1048e6dde2286010f925b6f5664070",
         "attributes": {
-            "key": "db1048e6dde2286010f925b6f5664070",
+            "key": "echo",
             "name": "Echo Name",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "echo.volunteer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -85,14 +85,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
-        "type": "TYPE",
+        "comment": "Foxtrot",
+        "type": "volunteer",
         "id": "cad88c792e9ab61f34de4151e10f87f0",
         "attributes": {
-            "key": "cad88c792e9ab61f34de4151e10f87f0",
+            "key": "foxtrot",
             "name": "Foxtrot Name",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha@example.org",
+            "email_address": "foxtrot.volunteer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

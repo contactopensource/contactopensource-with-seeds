@@ -1,11 +1,20 @@
 {
     "data": [{
-        "comment": "Burning Man -> Trip planning",
-        "type": "organization",
+        "comment": "Alpha",
+        "type": "goal",
         "id": "22e5948d395fd6529ce8a693360f6dce",
         "attributes": {
-            "organization_id": "3d3d20398ccb973e1033893db540c61f",
-            "name": "Build big theme camp"
+            "key": "alpha",
+            "name": "Alpha Goal",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha.goal@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

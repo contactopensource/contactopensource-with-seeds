@@ -1,12 +1,20 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Alpha",
+        "type": "marketplace",
+        "id": "6c9423267e73f116e648e4641ed98ec6",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
+            "key": "alpha",
+            "name": "Alpha Marketplace",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "email_address": "alpha.marketplace@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     }]
 }

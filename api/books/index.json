@@ -1,6 +1,6 @@
 {
     "data": [{
-        "comment": "TODO",
+        "comment": "Antigone",
         "type": "book",
         "id": "06a5c475635a44faae1fa88b715f84a2",
         "attributes": {
@@ -18,7 +18,7 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Beloved",
         "type": "book",
         "id": "3d45384aa6399becca61fd45db9c9c0f",
         "attributes": {
@@ -36,7 +36,7 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Candide",
         "type": "book",
         "id": "8b7bef09ea9dcfe89d43830b44ed69a5",
         "attributes": {
@@ -54,7 +54,7 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Decameron",
         "type": "book",
         "id": "de373ae3f75b06570fa44fc3ce716265",
         "attributes": {
@@ -72,7 +72,7 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Emma",
         "type": "book",
         "id": "470b25b0225a58605bdad4498f396df4",
         "attributes": {
@@ -90,7 +90,7 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "TODO",
+        "comment": "Frankenstein",
         "type": "book",
         "id": "124ac9c71ef2607857941d4942a0da9a",
         "attributes": {

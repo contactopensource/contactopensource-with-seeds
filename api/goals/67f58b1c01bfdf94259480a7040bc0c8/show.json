@@ -1,0 +1,20 @@
+{
+    "data": [{
+        "comment": "Foxtrot",
+        "type": "goal",
+        "id": "67f58b1c01bfdf94259480a7040bc0c8",
+        "attributes": {
+            "key": "foxtrot",
+            "name": "Foxtrot Goal",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "foxtrot.goal@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        }
+    }]
+}

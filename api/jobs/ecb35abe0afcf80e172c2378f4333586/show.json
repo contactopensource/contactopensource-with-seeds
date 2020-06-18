@@ -1,12 +1,21 @@
 {
     "data": [{
-        "type": "post",
-        "id": "ZID",
+        "comment": "Feed the Children -> Foxtrot Job",
+        "type": "job",
+        "id": "ecb35abe0afcf80e172c2378f4333586",
         "attributes": {
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "content": "LOREM",
+            "key": "feed_the_children_foxtrot_job",
+            "organization_id": "9aa2fb3c92eb1752d6d8814ecac122f1",
+            "name": "Foxtrot Job",
+            "box_img_uri": "organizations/feed_the_children/icons/512.png",
+            "email_address": "info@.feedthechildren.org",
+            "telephone_text": "1.405.942.0228",
+            "postal_address_textarea": "333 N. Meridian, Oklahoma City, OK 73107",
+            "facebook_uri": "https://www.facebook.com/feedthechildren/",
+            "twitter_uri": "https://twitter.com/feedthechildren",
+            "twitter_bio": "We believe in a world where no child goes to bed hungry. #FeedtheChildren",
+            "linkedin_uri": "https://www.linkedin.com/company/feed-the-children/",
+            "crunchbase_uri": "https://www.crunchbase.com/organization/feed-the-children"
         }
     }]
 }

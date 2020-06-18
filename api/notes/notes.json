@@ -1,38 +1,103 @@
 {
     "data": [{
-        "comment": "a",
+        "comment": "Alpha",
         "type": "note",
         "id": "fe3e8a147031534d0780aae26b0159ef",
         "attributes": {
-            "name": "Alpha note"
+            "name": "Alpha Note",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "alpha.note@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "b",
+        "comment": "Bravo",
         "type": "note",
         "id": "eec03d72da49dfea7a528dd843852311",
         "attributes": {
-            "name": "Bravo note"
+            "key": "bravo",
+            "name": "Bravo Note",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "bravo.note@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "c",
+        "comment": "Charlie",
         "type": "note",
         "id": "e7a82a31fb9eccd48b5770b1ba21d16e",
         "attributes": {
-            "name": "Charlie note"
+            "key": "charlie",
+            "name": "Charlie Note",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "charlie.note@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "d",
+        "comment": "Delta",
         "type": "note",
         "id": "1987586f5c6b8a364e94ea1a78557a5b",
         "attributes": {
-            "name": "Delta note"
+            "key": "delta",
+            "name": "Delta Note",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "delta.note@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "e",
+        "comment": "Echo",
         "type": "note",
         "id": "0f45c48c25d5353dc4df9ccced94109b",
         "attributes": {
-            "name": "Echo note"
-        }
-    }]
+            "key": "echo",
+            "name": "Echo Note",
+            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "email_address": "echo.note@example.org",
+            "telephone_text": "",
+            "postal_address_line": "",
+            "facebook_uri": "https://www.facebook.com/",
+            "twitter_uri": "https://twitter.com/",
+            "twitter_bio": "",
+            "linkedin_uri": "https://www.linkedin.com/",
+            "crunchbase_uri": "https://www.crunchbase.com/"
+        },{
+            "comment": "Foxtrot",
+           "type": "note",
+            "id": "0f45c48c25d5353dc4df9ccced94109b",
+            "attributes": {
+                "key": "foxtrot",
+                "name": "Foxtrot Note",
+                "box_img_uri": "TYPE/ZID/icons/512.png",
+                "email_address": "foxtrot.note@example.org",
+                "telephone_text": "",
+                "postal_address_line": "",
+                "facebook_uri": "https://www.facebook.com/",
+                "twitter_uri": "https://twitter.com/",
+                "twitter_bio": "",
+                "linkedin_uri": "https://www.linkedin.com/",
+                "crunchbase_uri": "https://www.crunchbase.com/"
+            }
+        }]
 }
