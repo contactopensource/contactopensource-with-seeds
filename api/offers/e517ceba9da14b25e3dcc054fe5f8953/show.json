@@ -1,12 +1,12 @@
 {
     "data": [{
-        "comment": "Echo",
+        "comment": "Everything",
         "type": "offer",
         "id": "e517ceba9da14b25e3dcc054fe5f8953",
         "attributes": {
-            "key": "echo",
-            "name": "Echo offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "key": "everything_must_go",
+            "name": "Everything Must Go",
+            "box_img_uri": "offers/everything/icons/512.png",
             "email_address": "echo.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
@@ -15,6 +15,7 @@
             "twitter_bio": "",
             "linkedin_uri": "https://www.linkedin.com/",
             "crunchbase_uri": "https://www.crunchbase.com/"
+        }
         }
     }]
 }

@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Delta",
+        "comment": "Deal",
         "type": "offer",
         "id": "9bacba75fcf7ac9fd7f97aae369f9436",
         "attributes": {
-            "key": "delta",
-            "name": "Delta offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "delta.offer@example.org",
+            "key": "deal_of_the_day",
+            "name": "Deal Of The Day",
+            "box_img_uri": "offers/deal/icons/512.png",
+            "email_address": "deal-of-the-day@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -15,6 +15,5 @@
             "twitter_bio": "",
             "linkedin_uri": "https://www.linkedin.com/",
             "crunchbase_uri": "https://www.crunchbase.com/"
-        }
     }]
 }

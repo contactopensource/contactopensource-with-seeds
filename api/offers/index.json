@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Alpha",
+        "comment": "All",
         "type": "offer",
         "id": "6c9423267e73f116e648e4641ed98ec6",
         "attributes": {
-            "key": "alpha",
-            "name": "Alpha offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha.offer@example.org",
+            "key": "all_items_on_sale",
+            "name": "All Items On Sale",
+            "box_img_uri": "offers/all/icons/512.png",
+            "email_address": "all-items-on-sale@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -17,14 +17,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "Bravo",
+        "comment": "Buy",
         "type": "offer",
         "id": "5c13f9f74a42a7b043b46beb8dfa38a7",
         "attributes": {
-            "key": "bravo",
-            "name": "Bravo offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "bravo.offer@example.org",
+            "key": "buy_one_get_one",
+            "name": "Buy One Get One",
+            "box_img_uri": "offers/buy/icons/512.png",
+            "email_address": "buy-one-get-one@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -34,14 +34,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "Charlie",
+        "comment": "Coupon",
         "type": "offer",
         "id": "f244b61fe3bf4f4df05f3aa5027c700b",
         "attributes": {
-            "key": "charlie",
-            "name": "Charlie offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "charlie.offer@example.org",
+            "key": "coupon_clipping",
+            "name": "Coupon Clipping",
+            "box_img_uri": "offers/coupon/icons/512.png",
+            "email_address": "coupon-clipping@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -51,14 +51,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "Delta",
+        "comment": "Deal",
         "type": "offer",
         "id": "9bacba75fcf7ac9fd7f97aae369f9436",
         "attributes": {
-            "key": "delta",
-            "name": "Delta offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "delta.offer@example.org",
+            "key": "deal_of_the_day",
+            "name": "Deal Of The Day",
+            "box_img_uri": "offers/deal/icons/512.png",
+            "email_address": "deal-of-the-day@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -68,13 +68,13 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "Echo",
+        "comment": "Everything",
         "type": "offer",
         "id": "e517ceba9da14b25e3dcc054fe5f8953",
         "attributes": {
-            "key": "echo",
-            "name": "Echo offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
+            "key": "everything_must_go",
+            "name": "Everything Must Go",
+            "box_img_uri": "offers/everything/icons/512.png",
             "email_address": "echo.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
@@ -85,14 +85,14 @@
             "crunchbase_uri": "https://www.crunchbase.com/"
         }
     },{
-        "comment": "Foxtrot",
+        "comment": "Free",
         "type": "offer",
         "id": "b782186b56c50c61ead79c1e4176f573",
         "attributes": {
-            "key": "foxtrot",
-            "name": "Foxtrot offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "foxtrot.offer@example.org",
+            "key": "free_for_first_timers",
+            "name": "Free For First Timers",
+            "box_img_uri": "offers/free/icons/512.png",
+            "email_address": "free-for-first-timers@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

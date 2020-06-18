@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Bravo",
+        "comment": "Buy",
         "type": "offer",
         "id": "5c13f9f74a42a7b043b46beb8dfa38a7",
         "attributes": {
-            "key": "bravo",
-            "name": "Bravo offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "bravo.offer@example.org",
+            "key": "buy_one_get_one",
+            "name": "Buy One Get One",
+            "box_img_uri": "offers/buy/icons/512.png",
+            "email_address": "buy-one-get-one@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

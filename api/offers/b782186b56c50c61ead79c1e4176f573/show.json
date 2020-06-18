@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Foxtrot",
+        "comment": "Free",
         "type": "offer",
         "id": "b782186b56c50c61ead79c1e4176f573",
         "attributes": {
-            "key": "foxtrot",
-            "name": "Foxtrot offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "foxtrot.offer@example.org",
+            "key": "free_for_first_timers",
+            "name": "Free For First Timers",
+            "box_img_uri": "offers/free/icons/512.png",
+            "email_address": "free-for-first-timers@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

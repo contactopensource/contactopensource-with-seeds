@@ -9,6 +9,7 @@ Data that includes content and images:
 * books
 * movies
 * music
+* offers
 * sports
 * travels
 * fruits
@@ -21,7 +22,6 @@ Data that includes just placeholders so far:
 * events
 * goals
 * jobs
-* offers
 * news
 * notes
 * notifications

@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Alpha",
+        "comment": "All",
         "type": "offer",
         "id": "6c9423267e73f116e648e4641ed98ec6",
         "attributes": {
-            "key": "alpha",
-            "name": "Alpha offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha.offer@example.org",
+            "key": "all_items_on_sale",
+            "name": "All Items On Sale",
+            "box_img_uri": "offers/all/icons/512.png",
+            "email_address": "all-items-on-sale@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

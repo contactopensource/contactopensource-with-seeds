@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Charlie",
+        "comment": "Coupon",
         "type": "offer",
         "id": "f244b61fe3bf4f4df05f3aa5027c700b",
         "attributes": {
-            "key": "charlie",
-            "name": "Charlie offer",
-            "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "charlie.offer@example.org",
+            "key": "coupon_clipping",
+            "name": "Coupon Clipping",
+            "box_img_uri": "offers/coupon/icons/512.png",
+            "email_address": "coupon-clipping@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
