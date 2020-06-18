@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Charlie",
-        "type": "marketplace",
-        "id": "f244b61fe3bf4f4df05f3aa5027c700b",
+        "comment": "Echo",
+        "type": "offer",
+        "id": "e517ceba9da14b25e3dcc054fe5f8953",
         "attributes": {
-            "key": "charlie",
-            "name": "Charlie Marketplace",
+            "key": "echo",
+            "name": "Echo offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "charlie.marketplace@example.org",
+            "email_address": "echo.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

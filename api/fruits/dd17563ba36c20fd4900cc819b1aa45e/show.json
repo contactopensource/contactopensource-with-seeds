@@ -1,7 +1,7 @@
 {
     "data": [{
         "comment": "c",
-        "type": "thing",
+        "type": "fruit",
         "id": "dd17563ba36c20fd4900cc819b1aa45e",
         "attributes": {
             "name": "cherry"

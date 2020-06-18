@@ -1,7 +1,7 @@
 {
     "data": [{
         "comment": "b",
-        "type": "thing",
+        "type": "fruit",
         "id": "deabb3e6a944fd07d5e83de4a3a237b6",
         "attributes": {
             "name": "banana"

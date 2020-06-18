@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Bravo",
-        "type": "marketplace",
-        "id": "5c13f9f74a42a7b043b46beb8dfa38a7",
+        "comment": "Foxtrot",
+        "type": "offer",
+        "id": "b782186b56c50c61ead79c1e4176f573",
         "attributes": {
-            "key": "bravo",
-            "name": "Bravo Marketplace",
+            "key": "foxtrot",
+            "name": "Foxtrot offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "bravo.marketplace@example.org",
+            "email_address": "foxtrot.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

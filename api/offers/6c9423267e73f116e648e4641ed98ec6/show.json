@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Echo",
-        "type": "marketplace",
-        "id": "e517ceba9da14b25e3dcc054fe5f8953",
+        "comment": "Alpha",
+        "type": "offer",
+        "id": "6c9423267e73f116e648e4641ed98ec6",
         "attributes": {
-            "key": "echo",
-            "name": "Echo Marketplace",
+            "key": "alpha",
+            "name": "Alpha offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "echo.marketplace@example.org",
+            "email_address": "alpha.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

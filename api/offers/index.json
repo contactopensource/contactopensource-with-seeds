@@ -1,13 +1,13 @@
 {
     "data": [{
         "comment": "Alpha",
-        "type": "marketplace",
+        "type": "offer",
         "id": "6c9423267e73f116e648e4641ed98ec6",
         "attributes": {
             "key": "alpha",
-            "name": "Alpha Marketplace",
+            "name": "Alpha offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "alpha.marketplace@example.org",
+            "email_address": "alpha.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -18,13 +18,13 @@
         }
     },{
         "comment": "Bravo",
-        "type": "marketplace",
+        "type": "offer",
         "id": "5c13f9f74a42a7b043b46beb8dfa38a7",
         "attributes": {
             "key": "bravo",
-            "name": "Bravo Marketplace",
+            "name": "Bravo offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "bravo.marketplace@example.org",
+            "email_address": "bravo.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -35,13 +35,13 @@
         }
     },{
         "comment": "Charlie",
-        "type": "marketplace",
+        "type": "offer",
         "id": "f244b61fe3bf4f4df05f3aa5027c700b",
         "attributes": {
             "key": "charlie",
-            "name": "Charlie Marketplace",
+            "name": "Charlie offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "charlie.marketplace@example.org",
+            "email_address": "charlie.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -52,13 +52,13 @@
         }
     },{
         "comment": "Delta",
-        "type": "marketplace",
+        "type": "offer",
         "id": "9bacba75fcf7ac9fd7f97aae369f9436",
         "attributes": {
             "key": "delta",
-            "name": "Delta Marketplace",
+            "name": "Delta offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "delta.marketplace@example.org",
+            "email_address": "delta.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -69,13 +69,13 @@
         }
     },{
         "comment": "Echo",
-        "type": "marketplace",
+        "type": "offer",
         "id": "e517ceba9da14b25e3dcc054fe5f8953",
         "attributes": {
             "key": "echo",
-            "name": "Echo Marketplace",
+            "name": "Echo offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "echo.marketplace@example.org",
+            "email_address": "echo.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
@@ -86,13 +86,13 @@
         }
     },{
         "comment": "Foxtrot",
-        "type": "marketplace",
+        "type": "offer",
         "id": "b782186b56c50c61ead79c1e4176f573",
         "attributes": {
             "key": "foxtrot",
-            "name": "Foxtrot Marketplace",
+            "name": "Foxtrot offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "foxtrot.marketplace@example.org",
+            "email_address": "foxtrot.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

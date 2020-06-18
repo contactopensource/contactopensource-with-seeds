@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Foxtrot",
-        "type": "marketplace",
-        "id": "b782186b56c50c61ead79c1e4176f573",
+        "comment": "Charlie",
+        "type": "offer",
+        "id": "f244b61fe3bf4f4df05f3aa5027c700b",
         "attributes": {
-            "key": "foxtrot",
-            "name": "Foxtrot Marketplace",
+            "key": "charlie",
+            "name": "Charlie offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "foxtrot.marketplace@example.org",
+            "email_address": "charlie.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

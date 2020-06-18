@@ -1,13 +1,13 @@
 {
     "data": [{
         "comment": "Delta",
-        "type": "marketplace",
+        "type": "offer",
         "id": "9bacba75fcf7ac9fd7f97aae369f9436",
         "attributes": {
             "key": "delta",
-            "name": "Delta Marketplace",
+            "name": "Delta offer",
             "box_img_uri": "TYPE/ZID/icons/512.png",
-            "email_address": "delta.marketplace@example.org",
+            "email_address": "delta.offer@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
