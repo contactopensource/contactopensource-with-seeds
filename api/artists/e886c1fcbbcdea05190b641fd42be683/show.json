@@ -1,12 +1,12 @@
 {
     "data": [{
         "comment": "Feist",
-        "type": "music",
+        "type": "artist",
         "id": "e886c1fcbbcdea05190b641fd42be683",
         "attributes": {
             "key": "feist",
             "name": "Feist",
-            "box_img_uri": "music/feist/icons/512.jpg",
+            "box_img_uri": "artist/feist/icons/512.jpg",
             "email_address": "feist@example.org",
             "telephone_text": "",
             "postal_address_line": "",

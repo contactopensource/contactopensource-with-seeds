@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Beyoncé",
-        "type": "music",
-        "id": "33457519a49117825d71dc75f8d1c255",
+        "comment": "Drake",
+        "type": "artist",
+        "id": "dece05303173d248b91076b2fa3f7d02",
         "attributes": {
-            "key": "beyonce",
-            "name": "Beyoncé",
-            "box_img_uri": "music/beyonce/icons/512.jpg",
-            "email_address": "beyonce@example.org",
+            "key": "drake",
+            "name": "Drake",
+            "box_img_uri": "artist/drake/icons/512.jpg",
+            "email_address": "drake@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

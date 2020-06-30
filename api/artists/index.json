@@ -1,12 +1,12 @@
 {
     "data": [{
         "comment": "Adele",
-        "type": "music",
+        "type": "artist",
         "id": "056a358fd586747590e9ac9ea7a80d79",
         "attributes": {
             "key": "adele",
             "name": "Adele",
-            "box_img_uri": "music/adele/icons/512.jpg",
+            "box_img_uri": "artist/adele/icons/512.jpg",
             "email_address": "adele@example.org",
             "telephone_text": "",
             "postal_address_line": "",
@@ -18,12 +18,12 @@
         }
     },{
         "comment": "Beyoncé",
-        "type": "music",
+        "type": "artist",
         "id": "33457519a49117825d71dc75f8d1c255",
         "attributes": {
             "key": "beyonce",
             "name": "Beyoncé",
-            "box_img_uri": "music/beyonce/icons/512.jpg",
+            "box_img_uri": "artist/beyonce/icons/512.jpg",
             "email_address": "beyonce@example.org",
             "telephone_text": "",
             "postal_address_line": "",
@@ -35,12 +35,12 @@
         }
     },{
         "comment": "Cher",
-        "type": "music",
+        "type": "artist",
         "id": "bb29d91fbb168b7e9bb18333d620c805",
         "attributes": {
             "key": "cher",
             "name": "Cher",
-            "box_img_uri": "music/cher/icons/512.jpg",
+            "box_img_uri": "artist/cher/icons/512.jpg",
             "email_address": "cher@example.org",
             "telephone_text": "",
             "postal_address_line": "",
@@ -52,12 +52,12 @@
         }
     },{
         "comment": "Drake",
-        "type": "music",
+        "type": "artist",
         "id": "dece05303173d248b91076b2fa3f7d02",
         "attributes": {
             "key": "drake",
             "name": "Drake",
-            "box_img_uri": "music/drake/icons/512.jpg",
+            "box_img_uri": "artist/drake/icons/512.jpg",
             "email_address": "drake@example.org",
             "telephone_text": "",
             "postal_address_line": "",
@@ -69,12 +69,12 @@
         }
     },{
         "comment": "Eminem",
-        "type": "music",
+        "type": "artist",
         "id": "9f71e205c1e357274a3f561fac918b8b",
         "attributes": {
             "key": "eminem",
             "name": "Eminem",
-            "box_img_uri": "music/eminem/icons/512.jpg",
+            "box_img_uri": "artist/eminem/icons/512.jpg",
             "email_address": "eminem@example.org",
             "telephone_text": "",
             "postal_address_line": "",
@@ -86,12 +86,12 @@
         }
     },{
         "comment": "Feist",
-        "type": "music",
+        "type": "artist",
         "id": "e886c1fcbbcdea05190b641fd42be683",
         "attributes": {
             "key": "feist",
             "name": "Feist",
-            "box_img_uri": "music/feist/icons/512.jpg",
+            "box_img_uri": "artist/feist/icons/512.jpg",
             "email_address": "feist@example.org",
             "telephone_text": "",
             "postal_address_line": "",

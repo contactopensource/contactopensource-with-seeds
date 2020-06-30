@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Cher",
-        "type": "music",
-        "id": "bb29d91fbb168b7e9bb18333d620c805",
+        "comment": "Adele",
+        "type": "artist",
+        "id": "056a358fd586747590e9ac9ea7a80d79",
         "attributes": {
-            "key": "cher",
-            "name": "Cher",
-            "box_img_uri": "music/cher/icons/512.jpg",
-            "email_address": "cher@example.org",
+            "key": "adele",
+            "name": "Adele",
+            "box_img_uri": "artist/adele/icons/512.jpg",
+            "email_address": "adele@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

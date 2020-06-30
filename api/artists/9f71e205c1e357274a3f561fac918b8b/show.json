@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Drake",
-        "type": "music",
-        "id": "dece05303173d248b91076b2fa3f7d02",
+        "comment": "Eminem",
+        "type": "artist",
+        "id": "9f71e205c1e357274a3f561fac918b8b",
         "attributes": {
-            "key": "drake",
-            "name": "Drake",
-            "box_img_uri": "music/drake/icons/512.jpg",
-            "email_address": "drake@example.org",
+            "key": "eminem",
+            "name": "Eminem",
+            "box_img_uri": "artist/eminem/icons/512.jpg",
+            "email_address": "eminem@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",

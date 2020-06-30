@@ -1,13 +1,13 @@
 {
     "data": [{
-        "comment": "Eminem",
-        "type": "music",
-        "id": "9f71e205c1e357274a3f561fac918b8b",
+        "comment": "Beyoncé",
+        "type": "artist",
+        "id": "33457519a49117825d71dc75f8d1c255",
         "attributes": {
-            "key": "eminem",
-            "name": "Eminem",
-            "box_img_uri": "music/eminem/icons/512.jpg",
-            "email_address": "eminem@example.org",
+            "key": "beyonce",
+            "name": "Beyoncé",
+            "box_img_uri": "artist/beyonce/icons/512.jpg",
+            "email_address": "beyonce@example.org",
             "telephone_text": "",
             "postal_address_line": "",
             "facebook_uri": "https://www.facebook.com/",
