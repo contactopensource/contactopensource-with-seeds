@@ -1,0 +1,12 @@
+{
+    "data": [{
+        "type": "post",
+        "id": "a37101f00c9a219f9e02df7bf2bdcc42",
+        "attributes": {
+            "title": "Eve Evans",
+            "subtitle": "eve.evans@example.com",
+            "box_img_uri": "persons/eve_evans/icons/512.jpg",
+            "content": "Commodo viverra maecenas accumsan lacus vel. Faucibus ornare suspendisse sed nisi lacus sed viverra. Morbi tristique senectus et netus et malesuada.",
+        }
+    }]
+}

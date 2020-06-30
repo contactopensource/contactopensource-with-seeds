@@ -8,7 +8,7 @@ Data that includes content and images:
 * organizations
 * books
 * movies
-* music
+* artist
 * offers
 * sports
 * travels
