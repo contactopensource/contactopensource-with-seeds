@@ -1,7 +1,7 @@
 {
     "data": [{
         "comment": "Alice",
-        "type": "persons",
+        "type": "person",
         "id": "cc1143129505d87f5f0a044b7dbef236",
         "attributes": {
             "key": "alice_adams",
@@ -44,7 +44,7 @@
         }
     },{
         "comment": "Bob",
-        "type": "persons",
+        "type": "person",
         "id": "925561d3c5d097b690d029ef03d08721",
         "attributes": {
             "key": "bob_brown",
@@ -87,7 +87,7 @@
         }
     },{
         "comment": "Carol",
-        "type": "persons",
+        "type": "person",
         "id": "ebb7f695a7301810fcd17efff78f222d",
         "attributes": {
             "key": "carol_clark",
@@ -130,7 +130,7 @@
         }
     },{
         "comment": "Dave",
-        "type": "persons",
+        "type": "person",
         "id": "d8913a341ff72be5a6716d90c46a29da",
         "attributes": {
             "key": "dave_davis",
@@ -173,7 +173,7 @@
         }
     },{
         "comment": "Eve",
-        "type": "persons",
+        "type": "person",
         "id": "6eeb89a7967a5f08851290092f9e3c2a",
         "attributes": {
             "key": "eve_evans",
@@ -216,7 +216,7 @@
         }
     },{
         "comment": "Frank",
-        "type": "persons",
+        "type": "person",
         "id": "acefb313c39ca3cdeea597e08204cc0f",
         "attributes": {
             "key": "frank_franklin",
@@ -228,7 +228,7 @@
             "email_address": "frank.franklin@example.com",
             "telephone_number": "1-800-555-5555",
             "map_uri": "https://maps.google.com",
-            "description": "TODO",
+            "description": "Etiam ut feugiat nibh. Suspendisse at scelerisque lectus, ut rutrum purus. Nulla non mattis mauris. In gravida risus in ipsum venenatis feugiat quis luctus dui.",
 
             "given_name": "Frank",
             "given_name_phonetic": "frank",

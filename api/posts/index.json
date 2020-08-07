@@ -1,18 +1,6 @@
 {
     "data": [{
         "type": "post",
-        "id": "dc5b7dd916e97afd5495ee662a9c56a1",
-        "attributes": {
-            "title": "Care International",
-            "subtitle": "info@care.org",
-            "box_img_uri": "organizations/care/icons/512.png",
-            "content": "Augue mauris augue neque gravida in fermentum et sollicitudin. Nisl tincidunt eget nullam non nisi est. Mauris vitae ultricies leo integer malesuada nunc vel risus.",
-        }
-    }]
-}
-{
-    "data": [{
-        "type": "post",
         "id": "cae9d8f8b5f982122ee0039a260ebbc2",
         "attributes": {
             "title": "Alice Adams",
@@ -27,7 +15,7 @@
             "title": "Amnesty International",
             "subtitle": "info@amnesty.org",
             "box_img_uri": "organizations/amnesty_international/icons/512.png",
-            "content": "Cras ornare arcu dui vivamus arcu. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Pellentesque habitant morbi tristique senectus.",
+            "content": "Cras ornare arcu dui vivamus arcu. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Pellentesque habitant morbi tristique senectus."
         }
     },{
         "type": "post",
@@ -36,7 +24,7 @@
             "title": "Bob Brown",
             "subtitle": "bob.brown@example.com",
             "box_img_uri": "persons/bob_brown/icons/512.jpg",
-            "content": "Vitae suscipit tellus mauris a diam maecenas sed. Nunc sed velit dignissim sodales ut eu sem integer vitae.",
+            "content": "Vitae suscipit tellus mauris a diam maecenas sed. Nunc sed velit dignissim sodales ut eu sem integer vitae."
         }
     },{
         "type": "post",
@@ -45,7 +33,7 @@
             "title": "Burning Man",
             "subtitle": "info@burningman.org",
             "box_img_uri": "organizations/burning_man/icons/512.jpg",
-            "content": "Tincidunt augue interdum velit euismod. Dignissim suspendisse in est ante in nibh mauris cursus. Bibendum enim facilisis gravida neque convallis a cras semper. Gravida dictum fusce ut placerat orci nulla. Id aliquet lectus proin nibh nisl. Faucibus ornare suspendisse sed nisi lacus sed viverra. Dictum fusce ut placerat orci nulla.",
+            "content": "Tincidunt augue interdum velit euismod. Dignissim suspendisse in est ante in nibh mauris cursus. Bibendum enim facilisis gravida neque convallis a cras semper. Gravida dictum fusce ut placerat orci nulla. Id aliquet lectus proin nibh nisl. Faucibus ornare suspendisse sed nisi lacus sed viverra. Dictum fusce ut placerat orci nulla."
         }
     },{
         "type": "post",
@@ -54,7 +42,7 @@
             "title": "Carol Clark",
             "subtitle": "carol.clark@example.com",
             "box_img_uri": "persons/carol_clark/icons/512.jpg",
-            "content": "Viverra justo nec ultrices dui. Leo integer malesuada nunc vel. Blandit libero volutpat sed cras. A cras semper auctor neque vitae tempus quam pellentesque.",
+            "content": "Viverra justo nec ultrices dui. Leo integer malesuada nunc vel. Blandit libero volutpat sed cras. A cras semper auctor neque vitae tempus quam pellentesque."
         }
     },{
         "type": "post",
@@ -63,7 +51,7 @@
             "title": "Care International",
             "subtitle": "info@care.org",
             "box_img_uri": "organizations/care/icons/512.png",
-            "content": "Augue mauris augue neque gravida in fermentum et sollicitudin. Nisl tincidunt eget nullam non nisi est. Mauris vitae ultricies leo integer malesuada nunc vel risus.",
+            "content": "Augue mauris augue neque gravida in fermentum et sollicitudin. Nisl tincidunt eget nullam non nisi est. Mauris vitae ultricies leo integer malesuada nunc vel risus."
         }
     },{
         "type": "post",
@@ -72,7 +60,7 @@
             "title": "Dave Davis",
             "subtitle": "dave.davis@example.com",
             "box_img_uri": "persons/dave_davis/icons/512.jpg",
-            "content": "Quis eleifend quam adipiscing vitae. Quisque non tellus orci ac auctor augue mauris augue neque. Lacinia quis vel eros donec.",
+            "content": "Quis eleifend quam adipiscing vitae. Quisque non tellus orci ac auctor augue mauris augue neque. Lacinia quis vel eros donec."
         }
     },{
         "type": "post",
@@ -81,7 +69,7 @@
             "title": "Direct Relief",
             "subtitle": "info@directrelief.org",
             "box_img_uri": "organizations/direct_relief/icons/512.png",
-            "content": "Ante metus dictum at tempor commodo ullamcorper a lacus. Laoreet sit amet cursus sit amet. Eu mi bibendum neque egestas congue quisque egestas.",
+            "content": "Ante metus dictum at tempor commodo ullamcorper a lacus. Laoreet sit amet cursus sit amet. Eu mi bibendum neque egestas congue quisque egestas."
         }
     },{
         "type": "post",
@@ -90,7 +78,7 @@
             "title": "Eve Evans",
             "subtitle": "eve.evans@example.com",
             "box_img_uri": "persons/eve_evans/icons/512.jpg",
-            "content": "Commodo viverra maecenas accumsan lacus vel. Faucibus ornare suspendisse sed nisi lacus sed viverra. Morbi tristique senectus et netus et malesuada.",
+            "content": "Commodo viverra maecenas accumsan lacus vel. Faucibus ornare suspendisse sed nisi lacus sed viverra. Morbi tristique senectus et netus et malesuada."
         }
     },{
         "type": "post",
@@ -99,7 +87,7 @@
             "title": "Electronic Frontier Foundation",
             "subtitle": "info@eff.org",
             "box_img_uri": "organizations/electronic_frontier_foundation/icons/512.png",
-            "content": "Gravida dictum fusce ut placerat orci nulla. Id aliquet lectus proin nibh nisl. Faucibus ornare suspendisse sed nisi lacus sed viverra.",
+            "content": "Gravida dictum fusce ut placerat orci nulla. Id aliquet lectus proin nibh nisl. Faucibus ornare suspendisse sed nisi lacus sed viverra."
         }
     },{
         "type": "post",
@@ -108,7 +96,7 @@
             "title": "Frank Franklin",
             "subtitle": "frank.franklin@example.com",
             "box_img_uri": "persons/frank_franklin/icons/512.jpg",
-            "content": "Commodo viverra maecenas accumsan lacus vel. Faucibus ornare suspendisse sed nisi lacus sed viverra. Morbi tristique senectus et netus et malesuada.",
+            "content": "Etiam ut feugiat nibh. Suspendisse at scelerisque lectus, ut rutrum purus. Nulla non mattis mauris. In gravida risus in ipsum venenatis feugiat quis luctus dui."
         }
     },{
         "type": "post",
@@ -117,7 +105,7 @@
             "title": "Feed the Children",
             "subtitle": "info@feedthechildren.org",
             "box_img_uri": "organizations/feed_the_children/icons/512.png",
-            "content": "Faucibus pulvinar elementum integer enim. Proin libero nunc consequat interdum varius sit amet mattis. Pretium fusce id velit ut tortor.",
+            "content": "Faucibus pulvinar elementum integer enim. Proin libero nunc consequat interdum varius sit amet mattis. Pretium fusce id velit ut tortor."
         }
     }]
 }
