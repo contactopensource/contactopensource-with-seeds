@@ -1,0 +1,69 @@
+{
+    "data": [{
+        "comment": "Art",
+        "type": "course",
+        "id": "924d5c6b79e7dda98b99885856199c20",
+        "attributes": {
+            "key": "art",
+            "title": "Art for Academics",
+            "subtitle": "All about research and teaching",
+            "box_img_uri": "courses/art/icons/512.png",
+            "email_address": "art@example.org"
+        }
+    },{
+        "comment": "Business",
+        "type": "course",
+        "id": "a6a6d797848ddbf1c440f1b35b5b6c46",
+        "attributes": {
+            "key": "businesss",
+            "title": "Business for Beginners",
+            "subtitle": "Basics to start your own company",
+            "box_img_uri": "courses/business/icons/512.png",
+            "email_address": "business@example.org"
+        }
+    },{
+        "comment": "Computers",
+        "type": "course",
+        "id": "3eebbcc16299b6d7c0ba7725843938d2",
+        "attributes": {
+            "key": "computers",
+            "title": "Computers for Collaboration",
+            "subtitle": "Co-create with current technologies",
+            "box_img_uri": "courses/computers/icons/512.png",
+            "email_address": "computers@example.org"
+        }
+    },{
+        "comment": "Dancing",
+        "type": "course",
+        "id": "0cf9b80c425569a73f2c278c29cad8cb",
+        "attributes": {
+            "key": "dancing",
+            "title": "Dancing for Dillitantes",
+            "subtitle": "Do more for your health and happiness",
+            "box_img_uri": "courses/dance/icons/512.png",
+            "email_address": "dance@example.org"
+        }
+    },{
+        "comment": "Engineering",
+        "type": "course",
+        "id": "142d3b07760dc4242f1385b6e8c1973b",
+        "attributes": {
+            "key": "engineering",
+            "title": "Engineering for Enthusiasts",
+            "subtitle": "Enhance and evolve your maker skills",
+            "box_img_uri": "courses/everything/icons/512.png",
+            "email_address": "engineering@example.org"
+        }
+    },{
+        "comment": "First-Aid",
+        "type": "course",
+        "id": "33c00ecdb2c43d426732845e6055b50e",
+        "attributes": {
+            "key": "firstaid",
+            "title": "First-Aid for First-Responders",
+            "subtitle": "Full training for when it matters most",
+            "box_img_uri": "courses/firstaid/icons/512.png",
+            "email_address": "firstaid@example.org",
+        }
+    }]
+}

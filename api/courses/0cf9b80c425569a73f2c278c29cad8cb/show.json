@@ -1,0 +1,14 @@
+{
+    "data": [{
+        "comment": "Dancing",
+        "type": "course",
+        "id": "0cf9b80c425569a73f2c278c29cad8cb",
+        "attributes": {
+            "key": "dancing",
+            "title": "Dancing for Dillitantes",
+            "subtitle": "Do more for your health and happiness",
+            "box_img_uri": "courses/dance/icons/512.png",
+            "email_address": "dance@example.org"
+        }
+    }]
+}

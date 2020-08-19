@@ -1,0 +1,14 @@
+{
+    "data": [{
+        "comment": "Engineering",
+        "type": "course",
+        "id": "142d3b07760dc4242f1385b6e8c1973b",
+        "attributes": {
+            "key": "engineering",
+            "title": "Engineering for Enthusiasts",
+            "subtitle": "Enhance and evolve your maker skills",
+            "box_img_uri": "courses/everything/icons/512.png",
+            "email_address": "engineering@example.org"
+        }
+    }]
+}

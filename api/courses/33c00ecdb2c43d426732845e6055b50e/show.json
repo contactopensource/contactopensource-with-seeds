@@ -1,0 +1,14 @@
+{
+    "data": [{
+        "comment": "First-Aid",
+        "type": "course",
+        "id": "33c00ecdb2c43d426732845e6055b50e",
+        "attributes": {
+            "key": "firstaid",
+            "title": "First-Aid for First-Responders",
+            "subtitle": "Full training for when it matters most",
+            "box_img_uri": "courses/firstaid/icons/512.png",
+            "email_address": "firstaid@example.org",
+        }
+    }]
+}

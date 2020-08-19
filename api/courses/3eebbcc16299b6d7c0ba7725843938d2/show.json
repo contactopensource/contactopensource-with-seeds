@@ -1,0 +1,14 @@
+{
+    "data": [{
+        "comment": "Computers",
+        "type": "course",
+        "id": "3eebbcc16299b6d7c0ba7725843938d2",
+        "attributes": {
+            "key": "computers",
+            "title": "Computers for Collaboration",
+            "subtitle": "Co-create with current technologies",
+            "box_img_uri": "courses/computers/icons/512.png",
+            "email_address": "computers@example.org"
+        }
+    }]
+}

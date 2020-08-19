@@ -1,0 +1,15 @@
+{
+    "data": [{
+        "comment": "Art",
+        "type": "course",
+        "id": "924d5c6b79e7dda98b99885856199c20",
+        "attributes": {
+            "key": "art",
+            "title": "Art for Academics",
+            "subtitle": "All about research and teaching",
+            "box_img_uri": "courses/art/icons/512.png",
+            "email_address": "art@example.org"
+        }
+    }]
+}
+

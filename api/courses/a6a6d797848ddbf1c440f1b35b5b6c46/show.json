@@ -1,0 +1,14 @@
+{
+    "data": [{
+        "comment": "Business",
+        "type": "course",
+        "id": "a6a6d797848ddbf1c440f1b35b5b6c46",
+        "attributes": {
+            "key": "businesss",
+            "title": "Business for Beginners",
+            "subtitle": "Basics to start your own company",
+            "box_img_uri": "courses/business/icons/512.png",
+            "email_address": "business@example.org"
+        }
+    }]
+}
