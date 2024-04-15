@@ -9,7 +9,7 @@
             "email_address": "adele@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "artist",
@@ -21,7 +21,7 @@
             "email_address": "beyonce@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "artist",
@@ -33,7 +33,7 @@
             "email_address": "christina-aguilera@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "artist",
@@ -45,7 +45,7 @@
             "email_address": "drake@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "artist",
@@ -57,7 +57,7 @@
             "email_address": "eminem@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "artist",
@@ -69,7 +69,7 @@
             "email_address": "feist@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     }],
     "movies": [{
@@ -83,7 +83,7 @@
             "email_address": "avengers-endgame@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "movie",
@@ -96,7 +96,7 @@
             "email_address": "black-is-king@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "movie",
@@ -109,7 +109,7 @@
             "email_address": "coco@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "movie",
@@ -122,7 +122,7 @@
             "email_address": "dunkirk@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "movie",
@@ -135,7 +135,7 @@
             "email_address": "eternal-sunshine-of-the-spotless-mind@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "movie",
@@ -148,7 +148,7 @@
             "email_address": "ferris-buellers-day-off@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     }],
     "offers": [{
@@ -161,7 +161,7 @@
             "email_address": "all-items-on-sale@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "offer",
@@ -173,7 +173,7 @@
             "email_address": "buy-one-get-one@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "offer",
@@ -185,7 +185,7 @@
             "email_address": "coupon-clipping@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "offer",
@@ -197,7 +197,7 @@
             "email_address": "deal-of-the-day@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "offer",
@@ -209,7 +209,7 @@
             "email_address": "echo.offer@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "offer",
@@ -221,11 +221,9 @@
             "email_address": "free-for-first-timers@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
-    }]
-}
-    
+    }],
     "organizations": [{
         "type": "organization",
         "id": "ccf8bf385cce40a4290ac17ee4c1c94b",
@@ -236,7 +234,7 @@
             "email_address": "info@amnesty.org",
             "facebook_uri": "https://www.facebook.com/amnestyglobal/",
             "twitter_uri": "https://twitter.com/amnesty",
-            "linkedin_uri": "https://www.linkedin.com/company/amnesty-international/",
+            "linkedin_uri": "https://www.linkedin.com/company/amnesty-international/"
         }
     },{
         "type": "organization",
@@ -248,7 +246,7 @@
             "email_address": "info@burningman.org",
             "facebook_uri": "https://www.facebook.com/burningman/",
             "twitter_uri": "https://twitter.com/burningman",
-            "linkedin_uri": "https://www.linkedin.com/company/burning-man-project/",
+            "linkedin_uri": "https://www.linkedin.com/company/burning-man-project/"
         }
     },{
         "type": "organization",
@@ -260,7 +258,7 @@
             "email_address": "info@care.org",
             "facebook_uri": "https://www.facebook.com/carefans/",
             "twitter_uri": "https://twitter.com/CAREGlobal",
-            "linkedin_uri": "https://www.linkedin.com/company/care/",
+            "linkedin_uri": "https://www.linkedin.com/company/care/"
         }
     },{
         "type": "organization",
@@ -272,7 +270,7 @@
             "email_address": "info@directrelief.org",
             "facebook_uri": "https://www.facebook.com/DirectRelief/",
             "twitter_uri": "https://twitter.com/DirectRelief",
-            "linkedin_uri": "https://www.linkedin.com/company/directrelief/",
+            "linkedin_uri": "https://www.linkedin.com/company/directrelief/"
         }
     },{
         "type": "organization",
@@ -284,7 +282,7 @@
             "email_address": "info@eff.org",
             "facebook_uri": "https://www.facebook.com/eff/",
             "twitter_uri": "https://twitter.com/EFF",
-            "linkedin_uri": "https://www.linkedin.com/company/electronic-frontier-foundation/",
+            "linkedin_uri": "https://www.linkedin.com/company/electronic-frontier-foundation/"
         }
     },{
         "type": "organization",
@@ -296,7 +294,7 @@
             "email_address": "info@.feedthechildren.org",
             "facebook_uri": "https://www.facebook.com/feedthechildren/",
             "twitter_uri": "https://twitter.com/feedthechildren",
-            "linkedin_uri": "https://www.linkedin.com/company/feed-the-children/",
+            "linkedin_uri": "https://www.linkedin.com/company/feed-the-children/"
         }
     }],
     "persons": [{
@@ -391,7 +389,7 @@
             "title": "Alice Adams",
             "subtitle": "alice.adams@example.com",
             "box_img_uri": "persons/alice_adams/icons/512.jpg",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         }
     },{
         "type": "post",
@@ -503,7 +501,7 @@
             "email_address": "archery@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "sport",
@@ -515,7 +513,7 @@
             "email_address": "brabasketball@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "sport",
@@ -527,7 +525,7 @@
             "email_address": "cricket@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "sport",
@@ -539,7 +537,7 @@
             "email_address": "dodgeball@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "sport",
@@ -551,7 +549,7 @@
             "email_address": "equestrianism@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "type": "sport",
@@ -563,7 +561,7 @@
             "email_address": "fencing@example.org",
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     }]
 }
