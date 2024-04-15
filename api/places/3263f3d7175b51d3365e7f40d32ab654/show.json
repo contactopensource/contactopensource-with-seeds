@@ -5,7 +5,7 @@
         "id": "3263f3d7175b51d3365e7f40d32ab654",
         "attributes": {
             "title": "South Pole",
-            "subtitle": "The Anarctic",
+            "subtitle": "The Antarctic",
             "box_img_uri": "places/south_pole/icons/512.jpg",
             "latitude": "0",
             "longitude": "0",
@@ -13,7 +13,7 @@
             "elevation": "0",
             "openlocationcode_text": "",
             "whatthreewords_text": "",
-            "what3words_text": "",
+            "what3words_text": ""
         }
     }]
 }

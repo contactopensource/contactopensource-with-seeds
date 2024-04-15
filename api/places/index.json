@@ -52,9 +52,9 @@
         "type": "geo_points",
         "id": "8188e32e580c55d15d1ccd14373a2f88",
         "attributes": {
-            "box_img_uri": "places/sfpl/icons/512.jpg",
             "title": "San Francisco Public Library",
             "subtitle": "San Francisco, CA, US",
+            "box_img_uri": "places/sfpl/icons/512.jpg",
             "latitude": "37.795563",
             "longitude": "-122.393312",
             "altitude": "12.1",
@@ -85,7 +85,7 @@
         "id": "3263f3d7175b51d3365e7f40d32ab654",
         "attributes": {
             "title": "South Pole",
-            "subtitle": "The Anarctic",
+            "subtitle": "The Antarctic",
             "box_img_uri": "places/south_pole/icons/512.jpg",
             "latitude": "0",
             "longitude": "0",

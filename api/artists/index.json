@@ -13,7 +13,7 @@
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
             "twitter_bio": "",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "comment": "Beyoncé",
@@ -29,7 +29,7 @@
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
             "twitter_bio": "",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "comment": "Christina Aguilera",
@@ -45,7 +45,7 @@
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
             "twitter_bio": "",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "comment": "Drake",
@@ -61,7 +61,7 @@
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
             "twitter_bio": "",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "comment": "Eminem",
@@ -77,7 +77,7 @@
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
             "twitter_bio": "",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     },{
         "comment": "Feist",
@@ -93,7 +93,7 @@
             "facebook_uri": "https://www.facebook.com/",
             "twitter_uri": "https://twitter.com/",
             "twitter_bio": "",
-            "linkedin_uri": "https://www.linkedin.com/",
+            "linkedin_uri": "https://www.linkedin.com/"
         }
     }]
 }
