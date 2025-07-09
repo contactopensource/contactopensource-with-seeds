@@ -3,9 +3,9 @@
         "type": "post",
         "id": "996a7e7cc394b2b67410f52effef4153",
         "attributes": {
-            "title": "Dave Davis",
-            "subtitle": "dave.davis@example.com",
-            "box_img_uri": "persons/dave_davis/icons/512.jpg",
+            "title": "David Davis",
+            "subtitle": "david.davis@example.com",
+            "box_img_uri": "persons/david_davis/icons/512.jpg",
             "content": "Quis eleifend quam adipiscing vitae. Quisque non tellus orci ac auctor augue mauris augue neque. Lacinia quis vel eros donec."
         }
     }]

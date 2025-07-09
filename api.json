@@ -343,13 +343,13 @@
         "type": "person",
         "id": "d8913a341ff72be5a6716d90c46a29da",
         "attributes": {
-            "key": "dave_davis",
-            "title": "Dave Davis",
-            "subtitle": "dave.davis@example.com",
-            "box_img_uri": "persons/dave_davis/icons/512.jpg",
-            "top_img_uri": "persons/dave_davis/hero.jpg",
-            "website_uri": "https://example.com/dave",
-            "email_address": "dave.davis@example.com",
+            "key": "david_davis",
+            "title": "David Davis",
+            "subtitle": "david.davis@example.com",
+            "box_img_uri": "persons/david_davis/icons/512.jpg",
+            "top_img_uri": "persons/david_davis/hero.jpg",
+            "website_uri": "https://example.com/david",
+            "email_address": "david.davis@example.com",
             "map_uri": "https://maps.google.com",
             "description": "Quis eleifend quam adipiscing vitae. Quisque non tellus orci ac auctor augue mauris augue neque. Lacinia quis vel eros donec."
         }
@@ -440,9 +440,9 @@
         "type": "post",
         "id": "996a7e7cc394b2b67410f52effef4153",
         "attributes": {
-            "title": "Dave Davis",
-            "subtitle": "dave.davis@example.com",
-            "box_img_uri": "persons/dave_davis/icons/512.jpg",
+            "title": "David Davis",
+            "subtitle": "david.davis@example.com",
+            "box_img_uri": "persons/david_davis/icons/512.jpg",
             "content": "Quis eleifend quam adipiscing vitae. Quisque non tellus orci ac auctor augue mauris augue neque. Lacinia quis vel eros donec."
         }
     },{
